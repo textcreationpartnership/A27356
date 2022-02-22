@@ -1,0 +1,568 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>City security stated in a sermon preached at St. Pauls August 11th, 1661 before the right Honourable the Lord Mayor / by William Bell ...</title>
+            <author>Bell, William, 1626-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27356</idno>
+            <idno type="STC">Wing B1809</idno>
+            <idno type="STC">ESTC R12348</idno>
+            <idno type="EEBO-CITATION">12646778</idno>
+            <idno type="OCLC">ocm 12646778</idno>
+            <idno type="VID">65157</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65157)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 974:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>City security stated in a sermon preached at St. Pauls August 11th, 1661 before the right Honourable the Lord Mayor / by William Bell ...</title>
+                  <author>Bell, William, 1626-1683.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Baker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65157:1"/>
+            <pb facs="tcp:65157:1" rendition="simple:additions"/>
+            <p>City Security STATED: IN A SERMON P<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eached at S<hi rend="sup">t</hi> 
+               <hi>Pauls Auguſt.</hi> 11<hi rend="sup">th</hi> 1661. Before the Right Honourable THE LORD MAYOR.</p>
+            <p>By <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>illia<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Bell</hi> B. D. late Fellow of S<hi rend="sup">t</hi> 
+               <hi>John Baptiſts</hi> Col<g ref="char:EOLhyphen"/>ledg <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>;</hi> and now Chaplain to his Majeſty in his Tower of LONDON.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Baker,</hi> at the Sign of the Peacock in S<hi rend="sup">t</hi> 
+               <hi>Pauls</hi> Church-yard. 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:65157:2"/>
+            <pb n="1" facs="tcp:65157:2"/>
+            <head>City Security.</head>
+            <epigraph>
+               <q>
+                  <bibl>PSALM 127. the latter part of the firſt Verſe.</bibl>
+                  <p>Except the Lord keep the City, the Watchman waketh but in vain.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Here is a <hi>naturall neceſſitous humility</hi> lodged in perſons of mean, and low ſpirits; men of no parts, or no know<g ref="char:EOLhyphen"/>ledge of their parts, or who have no juſt eſteem of them. And there is an <hi>artificiall flagitious humility,</hi> when, like the Hawk, men ſtoop for a quar<g ref="char:EOLhyphen"/>ry.<note place="margin">2 Sam. 15.5, 6.</note> Thus <hi>Abſalom ſtole the hearts</hi> of his Fathers ſubjects out at their mouths, by his treache<g ref="char:EOLhyphen"/>rous kiſſes. And there is a <hi>penall calamitous humility,</hi> when God trips up the heels of inſolent perſons; ſuch was that of proud <hi>Nebuchadnezzar,</hi>
+               <note place="margin">Dan. 4.33.</note> when deveſted of Em<g ref="char:EOLhyphen"/>pire, and Reaſon, <hi>Humiliatus erat, quid humilis non erat, humbled,</hi> becauſe not <hi>humble.</hi> And there is a <hi>Celeſtiall gratious humility,</hi> when men of eminent parts and place, own God as the fountain of all they have, and are, that fills and feeds their Channells. A <hi>royall</hi> virtue indeed, when <hi>Kings</hi> acknowledge <hi>their Thrones</hi> to be ſet upon <hi>Gods foot stoole,</hi> and though <hi>in all Cauſes, and over all Perſons, as well Eccleſiaſticall as Civill, in their own Do<g ref="char:EOLhyphen"/>minions
+<pb n="2" facs="tcp:65157:3"/> Supream heads and Governours;</hi> yet pay their ho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>nd fealty to the <hi>King of Kings,</hi> in confeſſing they are all this <hi>under God and his Chriſt.</hi> It is the method of proud men to compare themſelves with their inferiours, and as the <hi>Phariſee,</hi> to cry out, <hi>Lord! what am I not?</hi> like thoſe that meaſure themſelves by the declining Sun, and ſo ſeem taller than they are: But the humble perſon com<g ref="char:EOLhyphen"/>pares himſelf, his power, his wiſdome, his holineſſe, his honour, with thoſe of God, and, as the <hi>Publican,</hi> cries out <hi>Lord! what am I?</hi> As thoſe that meaſure themſelves by the Sun at noon, and their bedwarfd ſhadow, and are more than they ſeem. It is <hi>Moſes</hi> his Title of Honour to be ſtiled <hi>Gods ſervant;</hi> And <hi>Davids</hi> chief ambition to <hi>be a Nethenim in the houſe of God;</hi> The <hi>threſhold</hi> of whoſe <hi>Tem<g ref="char:EOLhyphen"/>ple</hi> was a ſtep above his <hi>Throne,</hi> and he takes a degree to be <hi>a Porter</hi> at it.<note place="margin">Rev. 4.10.</note> 
+               <hi>The Elders caſt down their Crowns at the feet of God.</hi> And, as all ſubordinate Powers, give in at the preſence of the <hi>King,</hi> as Stars return their light to the Sun at his ariſing; ſo even Kings lower their Scepters, when God exalts his, ſince the beſt of them are but the off-ſets thereof. The moſt <hi>abſolute Monarchs,</hi> are thus far <hi>relative,</hi> that they ſubſiſt by God, there being no in<g ref="char:EOLhyphen"/>dependency in reference to him. There are no deſignes, be the means, or men, that carry them on never ſo po<g ref="char:EOLhyphen"/>tent, that come not to naught, if <hi>blown</hi> upon by God: Nor is any inſtrument ſo impotent, that with God is not effi<g ref="char:EOLhyphen"/>cacious.<note place="margin">Phil. 4.13.</note> This is the ground of S<hi rend="sup">t</hi> 
+               <hi>Pauls omnipotency: I can do all things through Chriſt which ſtrengthneth me.</hi> Proud <hi>Babel</hi> that was raiſed in Rebellion againſt God, was razed in confuſion by him:<note place="margin">Zech. 4.6, 7.</note> But where <hi>not an Ar<g ref="char:EOLhyphen"/>my, nor strength,</hi> but the <hi>Spirit of God</hi> builds, there even <hi>the head ſtone is laid, and the ſhouting is grace, grace.</hi> God bleſſed the <hi>Aegyptian Midwives,</hi>
+               <note place="margin">Exod. 1.21.</note> by his <hi>building them houſes,</hi> for their ſupporting the <hi>houſes</hi> of the <hi>Iſraelites.</hi> And he who bleſſed them for their work, bleſſed them in it: And as he ſuited the reward to the work, ſo he ſuit<g ref="char:EOLhyphen"/>ed the work to his own promiſe; for he had pronounced that primitive bleſſing of <hi>Increaſe,</hi>
+               <note place="margin">Gen. 1.28.</note> 
+               <hi>and Multiply,</hi> on that
+<pb n="3" facs="tcp:65157:3" rendition="simple:additions"/> people, and man cannot <hi>ſubſtract</hi> where God will <hi>mul<g ref="char:EOLhyphen"/>tiply.</hi>
+            </p>
+            <p>No, nor yet <hi>multiply</hi> where he will <hi>ſubſtract. He,</hi> who <hi>keeps the key of David,</hi> opens the <hi>barren,</hi>
+               <note place="margin">Rev. 3.7.</note> and ſhuts up the <hi>fruitfull Womb:</hi> And as from one <hi>Vine,</hi> one fertil <hi>Wife,</hi>
+               <note place="margin">Pſal. 128.3.</note> he can draw forth the bleſſing of <hi>Cluſters</hi> of <hi>Children</hi> for <hi>him that feareth him;</hi>
+               <note place="margin">Verſe 1. 1 Kings 11.3.</note> ſo from <hi>ſeven hundred Wives and three hundred Concubines,</hi> the product to <hi>Solomon</hi> was but a ſingle <hi>Rhehoboam,</hi> ſo farre as Scripture undertakes the Genealogy; but one <hi>Grape</hi> from ſo many <hi>Vines,</hi> and that too, but ſuch an one as <hi>men gather of Thornes,</hi> who, like <hi>Ivy,</hi> plucked down the houſe, he pretended to ſupport. Both the fruit of the common Womb, the earth, is Gods, for <hi>The earth is the Lords, and the fullneſſe thereof;</hi>
+               <note place="margin">Pſal. 24.1.</note> and that of every particular one too, of every Mother, as well as that generall one:<note place="margin">Pſal. 12<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.3.</note> for <hi>Children are the inheritance of the Lord, and the fruit of the Womb is his reward.</hi> So that there is neither <hi>fertility,</hi> nor <hi>ſecurity; plenty</hi> nor <hi>ſafety</hi> without God, for <hi>except he build the houſe, they labour in vain that build it: Except he keep the Ci<g ref="char:EOLhyphen"/>ty,</hi> &amp;c.</p>
+            <p>Which words are, whether written by <hi>Solomon,</hi>
+               <note place="margin">Scope of the Text. Eccl. 8.4.</note> or by <hi>David,</hi> for <hi>Solomon</hi> (as is moſt probable) <hi>the words of a King,</hi> and <hi>there is power,</hi> and truth in them; as they are a proof of the neceſſary concurrence of divine providence to the undertakings of men: And the procedure of the argument is a <hi>minore, ad majus,</hi> from the leſſe, to the greater; that that providence is ſo <hi>particular,</hi> as to extend to the <hi>Oeconomy</hi> of every private family, <hi>except the Lord build,</hi> &amp;c. that is,<note place="margin">Clarius. Caſtalio in loc.</note> 
+               <hi>niſi augeat rem familiarem &amp; famili<g ref="char:EOLhyphen"/>am,</hi> unleſſe he improve the <hi>eſtate,</hi> and <hi>houſhold: haere<g ref="char:EOLhyphen"/>des, liberos, the heirs, the children,</hi> there can be no in<g ref="char:EOLhyphen"/>creaſe, or improvement of either by any. And yet that providence is withall ſo <hi>generall,</hi> as to comprehend the <hi>polity</hi> of a whole City. <hi>Except the Lord keep the Ci<g ref="char:EOLhyphen"/>ty,</hi> &amp;c.</p>
+            <p>The <hi>name</hi> of a family <hi>ſhall rot,</hi> unleſſe God ſhall vouch<g ref="char:EOLhyphen"/>ſafe to preſerve it by a numerous, and perfume it by a
+<pb n="4" facs="tcp:65157:4"/> gratious ſucceſſion of generations; And <hi>the City</hi> ſhall be buried in its own ruines, for all its fortifications of <hi>dead</hi> earth, its Walls and Towers; and of <hi>living</hi> earth, its Mi<g ref="char:EOLhyphen"/>litia and Magiſtrates, unleſſe God ſhall ſuperviſe and bleſſe all. <hi>Except the Lord keep,</hi> &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Diviſion. </seg>
+               </label> The words are a <hi>mod<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Propoſition.</hi> The <hi>Propoſition, The Watchman waketh but in vain.</hi> The <hi>modus</hi> or <hi>limi<g ref="char:EOLhyphen"/>tation. Except the Lord keep the City.</hi> I ſhall not man<g ref="char:EOLhyphen"/>gle the words by any more minute diviſion of them: that I may not part <hi>God</hi> from the <hi>City;</hi> the <hi>Watchman</hi> from <hi>God; vigilance</hi> from the <hi>Watchman;</hi> nor <hi>ſucceſſe</hi> from his <hi>vigilance.</hi> But I ſhall ſpeak to it by way of <hi>Explication,</hi> and <hi>Application.</hi>
+            </p>
+            <div type="commentary">
+               <p n="1">1. By way of <hi>Explication,</hi> in unfolding theſe four par<g ref="char:EOLhyphen"/>ticulars:</p>
+               <p>Firſt, What is intended by the word <hi>Watchman.</hi>
+               </p>
+               <p>Secondly, What is meant by the <hi>City.</hi>
+               </p>
+               <p>Thirdly, What is the purport of this phraſe of <hi>Gods keeping the City.</hi>
+               </p>
+               <p>Fourthly, I ſhall inſiſt on what is indeed the whole con<g ref="char:EOLhyphen"/>cernment of the Text, that <hi>Except the Lord keep,</hi> &amp;c. which I ſhall aſſert.
+<list>
+                     <item>1. By <hi>Precedents,</hi> that ſo it hath been.</item>
+                     <item>2. By <hi>Arguments,</hi> that ſo it muſt be.</item>
+                  </list>
+               </p>
+               <p>
+                  <note place="margin" type="runsum">1. Watchman what?</note>Firſt, What is intended by the word <hi>watchman?</hi> It ſignifies a <hi>Centinell,</hi> or one of a <hi>Guard</hi> appointed, and ſent forth for the ſafeguard of ſome place, or perſons. It is applicable,<note place="margin" type="runsum">1. Eccleſiaſti<g ref="char:EOLhyphen"/>cal. Ezek. 3.17.</note> 1. To <hi>Miniſters, Sonne of man, I have made thee a watchman unto the houſe of Iſrael, there<g ref="char:EOLhyphen"/>fore hear the word at my mouth:</hi> both <hi>miſſion, I have made thee a watchman,</hi> and <hi>commiſſion</hi> from God, <hi>there<g ref="char:EOLhyphen"/>fore bear the word at my mouth.</hi> But an enlargement on this ſenſe, in this place, at this time, is not pertinent. It is,<note place="margin" type="runsum">2. Civill Go<g ref="char:EOLhyphen"/>vernour. Ezek. 33 2.</note> 2. Therefore put for the Civill Governours, and particularly for Magiſtrates by Election. <hi>If the people of the Land take a man from among them, and make him their watchman,</hi> &amp;c. And the expreſſion is ſignificant, there is an <hi>Analogy,</hi> or correſpondence between the
+<pb n="5" facs="tcp:65157:4"/> 
+                  <hi>Magiſtrate,</hi> and <hi>Watchman</hi> in the <hi>unde, ubi,</hi> and <hi>quare</hi> of their imployments.</p>
+               <p n="1">
+                  <note place="margin" type="runsum">1. Taken from.</note>1. The Centinell or Watchman, is taken from his fel<g ref="char:EOLhyphen"/>lows, and onely differenc'd from them, in reſpect of his preſent charge; ſo is the Magiſtrate, who though cloa<g ref="char:EOLhyphen"/>thed with the Name and Image of God, in regard of his power above his brethren, <hi>Yet muſt dye as a man,</hi>
+                  <note place="margin">Pſal. 82.7.</note> 
+                  <hi>and fall like one of the Princes.</hi> The Robes, and Dreſſe di<g ref="char:EOLhyphen"/>ſtinguiſh him, but the fleſh and blood is the ſame; it is not the metall, but <hi>the ſuperſcription of Ceſar</hi> on him, that makes him differ in value.</p>
+               <p n="2">2. The Watchman was ſet in a <hi>Tower.</hi>
+                  <note place="margin">Iſai. 21.5, 8.</note> The Magiſtrate is <hi>exalted above his brethren,</hi>
+                  <note place="margin" type="runsum">2. Prefer'd a<g ref="char:EOLhyphen"/>bove.</note> his place is a place of emi<g ref="char:EOLhyphen"/>nence; <hi>annointed above his fellows, taller</hi> by the <hi>Crown,</hi> by the <hi>head,</hi> than the reſt.</p>
+               <p n="3">
+                  <note place="margin" type="runsum">3. For his fel<g ref="char:EOLhyphen"/>lowes.</note>3. Though the <hi>Watchman</hi> be taken from, and prefer<g ref="char:EOLhyphen"/>red above his brethren, yet all this is for them. As the <hi>Eccleſiaſticall,</hi> ſo alſo the <hi>Civill Ruler,</hi>
+                  <note place="margin">Heb. 5.1.</note> is <hi>taken from among men, and ordained for men,</hi> for <hi>ſalus populi,</hi> the peoples ſafety; it ſhould be, <hi>ſuprema lex Magiſtratui,</hi> the Magiſtrates chief Law, becauſe it is, <hi>ſuprema ratio Magiſtratûs,</hi> the finall cauſe of Magiſtracy.<note place="margin">Iſai. 45.4.</note> 
+                  <hi>For Jacob my ſervants ſake, and Iſrael mine elect, I will even call thee by thy name, and name thee,</hi> to wit, <hi>Cyrus,</hi> which neither deſcended of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>authority,</hi> or (which is a deri<g ref="char:EOLhyphen"/>vative of that) from <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Lord,</hi> ſhew'd he had <hi>that,</hi> and was <hi>this</hi> for <hi>Jacobs</hi> and <hi>Iſraels</hi> ſake: But enough of this, whereof we have had too much ſo lately.</p>
+               <p>
+                  <note place="margin" type="runsum">Rulers neceſ<g ref="char:EOLhyphen"/>ſary to the being.</note>Now Magiſtracy is neceſſary <hi>adeſſe</hi> to the being, and <hi>bene eſſe,</hi> to the w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll-being of a people.</p>
+               <p n="1">1. To their <hi>being,</hi> they cannot be a <hi>people</hi> without it: Could we have leave to look through the <hi>Act of Indemp<g ref="char:EOLhyphen"/>nity,</hi> we ſhould quickly take a proſpect of thoſe confuſi<g ref="char:EOLhyphen"/>ons, an <hi>
+                     <g ref="char:V">Ʋ</g>ſurping Government</hi> had involved us in;<note place="margin">Hoſea 1.4.</note> 
+                  <hi>Anar<g ref="char:EOLhyphen"/>chy</hi> would have been worſe; by that we were <hi>Iſrael, a ſcattered people;</hi> by this we ſhould have been <hi>Loammi, not a people.</hi>
+               </p>
+               <p n="2">
+                  <note place="margin" type="runsum">And well be<g ref="char:EOLhyphen"/>ing of a City.</note>2. Magiſtracy is neceſſary to the <hi>well-being,</hi> to the
+<pb n="6" facs="tcp:65157:5"/> ſtrength and opulency of a people; <hi>Bees</hi> taſt the ſweet of Governement, who fill their Combs under their <hi>King.</hi> And you cannot forget, for all an <hi>Act of Oblivion,</hi> under whom you cram'd your Coffers, and under whom you drain'd them: Who render'd you fear'd abroad for your Powers, and envied for your Peace and plenty at home; and who made you ſcorned or pittied, when like earthen Veſſels, they had emptied and daſhed you to ſhivers a<g ref="char:EOLhyphen"/>gainſt each other. But becauſe the Magiſtrate here, un<g ref="char:EOLhyphen"/>der the notion of a <hi>Watchman,</hi> is ſet rather for the <hi>pre<g ref="char:EOLhyphen"/>ſervation,</hi> than <hi>improvement</hi> of his peoples peace, to <hi>keep the City,</hi> that is, to <hi>ſecure</hi> what they have, not to <hi>acquire</hi> what they have not; we ſhall in three words conſider our Magiſtrate, as neceſſary to the being of his City, as a Watchman ſet out, or up.</p>
+               <p n="1">
+                  <note place="margin" type="runsum">Rulers Watch<g ref="char:EOLhyphen"/>men.</note>1. To <hi>prevent dangers,</hi>
+                  <note place="margin" type="runsum">1. To prevent.</note> And truely, as it is rather eli<g ref="char:EOLhyphen"/>gible to avoid <hi>ſinne,</hi> than <hi>cenſure;</hi> to be <hi>innocent</hi> than <hi>pardoned.<note place="margin">1 Sam. 15 22.</note> Obedience</hi> being <hi>better than ſacrifice, in this among many other respects,</hi> ſince that <hi>prevents</hi> the guilt, which this but <hi>atones</hi> for; ſo is it more commenda<g ref="char:EOLhyphen"/>ble to <hi>intercept</hi> miſchiefs,<note place="margin">Prov. 22.3.</note> than to <hi>overcome</hi> them. It is <hi>the prudent mans</hi> Character, that he <hi>foreſeeth the plague.</hi> Now, to ſpeak in my own ſphear; he that prevents ſinnes, pre<g ref="char:EOLhyphen"/>ven<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s dangers, for <hi>ſinne</hi> is the harbinger of <hi>plagues For this cauſe many are ſick,</hi>
+                  <note place="margin">1 Cor. 11.30.</note> 
+                  <hi>and weak among us, and ma<g ref="char:EOLhyphen"/>ny are fallen aſleep;</hi> for as <hi>intemperate diet</hi> in the <hi>naturall body</hi> breeds ill <hi>humours,</hi> and they engender <hi>death;</hi> ſo in the <hi>body politick, ill manners</hi> beget publick <hi>diſtempers,</hi> and they cloſe in a generall <hi>confuſion.</hi>
+                  <note place="margin">Cant. 3.3.</note> Therefore as <hi>the Watch<g ref="char:EOLhyphen"/>men walk about the City</hi> to prevent the deſignes of thieves, murderers, and incendiaries, ſo muſt the Magiſtrate; his eye muſt walk the round of his limits, to obſtruct ſinnes in their <hi>ſpring,</hi> and <hi>outburſt;</hi> a <hi>finger</hi> may hinder there, and then, when <hi>brachia contra torrentem,</hi> when grown large, and ſwift, and ſtrong, thoſe weak and contemned waters will bear down all the banks and dams of Laws and Auctority. <hi>Magiſtrates</hi> are called <hi>ſhields;</hi> and you know a <hi>ſhield</hi> is a defenſive piece of <hi>Armour,</hi>
+                  <note place="margin">Pſal. 47.9.</note> and its uſe is to ward
+<pb n="7" facs="tcp:65157:5"/> off blows from the body: And better have a <hi>ſhield</hi> to <hi>prevent</hi> a wound, than the ableſt <hi>Chyrurgeon</hi> to <hi>cure</hi> it.</p>
+               <p n="2">
+                  <note place="margin" type="runsum">2. To diſco<g ref="char:EOLhyphen"/>ver.</note>2. The <hi>Magiſtrate</hi> is a <hi>Watchman</hi> to diſcover and inti<g ref="char:EOLhyphen"/>mate dangers; therefore is the <hi>Watchman</hi> in the day on his <hi>Tower</hi> to <hi>foreſee</hi> and <hi>forewarn,</hi> in the night with his <hi>Lan<g ref="char:EOLhyphen"/>thorne</hi> to <hi>deſcry.</hi>
+                  <note place="margin">Ezek. 1.16, 18.</note> The Magiſtrates are thoſe <hi>wheels</hi> men<g ref="char:EOLhyphen"/>tioned by the Prophet, ſaid to be <hi>full of eyes;</hi> eyes to pry into ſinnes, and like thoſe of <hi>Tiberius,</hi> able to ſee in the <hi>dark. Watchman, what of the night?</hi>
+                  <note place="margin">Iſ. 21.11.</note> And they have <hi>motion,</hi> and <hi>weight,</hi> to <hi>track</hi> and <hi>overtake, thraſh, grind,</hi> and <hi>cruſh</hi> ſinners to pieces. The <hi>Watchman</hi> or <hi>Centinell</hi> is to give the <hi>Allarme</hi> to his Officers on the approach of the enemy: ſo muſt <hi>inferiour</hi> Magiſtrates diſcover to their <hi>ſuperiours,</hi> thoſe evils that are too ſtrong for themſelves to grapple with.<note place="margin">Ezeck. 33.3.</note> 
+                  <hi>The Watchman when he ſeeth the ſword come upon the Land, muſt blow the Trumpet, and warn the people.</hi> Neither of which, <hi>Iſaiahs blind,</hi>
+                  <note place="margin">Iſaiah 56.10.</note> 
+                  <hi>and dumb Watch<g ref="char:EOLhyphen"/>man</hi> can <hi>do,</hi> nor <hi>ſee,</hi> nor <hi>warn.</hi>
+               </p>
+               <p n="3">
+                  <note place="margin" type="runsum">3. To repell dangers.</note>3. The Magiſtrate is <hi>a Watchman to repell dangers;</hi> Therefore hath the <hi>Watchman</hi> his <hi>Bill,</hi> and the Magiſtrate his <hi>Sword,</hi> and <hi>neither</hi> of them are <hi>to bear them in vain.</hi> If he cannot <hi>prevent</hi> them by caution and diſcovery, he muſt valiantly <hi>attaque</hi> them; If as a <hi>ſhield</hi> he cannot <hi>repell</hi> them, as a <hi>Sword</hi> he muſt <hi>cut through</hi> them. If as a <hi>breaſt<g ref="char:EOLhyphen"/>work</hi> he cannot <hi>bear off,</hi> as a <hi>Cannon</hi> he muſt <hi>beat off</hi> the Aſſault. The <hi>Centinell</hi> who is the forlorne of every Corps of Guard, hath not only <hi>eyes</hi> to foreſee, and <hi>voice</hi> to in<g ref="char:EOLhyphen"/>timate, but his <hi>Muskett</hi> at a diſtance, and his <hi>Sword</hi> at hand, to reſiſt the intruſion of an enemy. And therefore is the Magiſtrate arm'd with a <hi>Commiſſion,</hi> that where he cannot hinder offences from a <hi>being,</hi> he may obſtruct their <hi>spreading,</hi> by diſcountenancing vice in ſtriking through the loynes of offenders. And in theſe ſences, and for theſe ends the Magiſtrate is a <hi>Watchman</hi> or keeper, for ſecuri<g ref="char:EOLhyphen"/>ty of</p>
+               <p>
+                  <note place="margin" type="runsum">2. City what?</note>
+                  <hi>The City,</hi> The ſecond term we promiſed the Explica<g ref="char:EOLhyphen"/>tion of: The word in the large acceptation of it, ſig<g ref="char:EOLhyphen"/>nifies
+<pb n="8" facs="tcp:65157:6" rendition="simple:additions"/> 
+                  <hi>a Nation, or Nations united under one Supreame Magiſtrate or Magiſtracy.</hi> In the reſtraind and uſuall ſenſe of it, <hi>It is a place encompaſſed with walls, where men convene, and cohabit for mutuall commerce, ſecuri<g ref="char:EOLhyphen"/>ty, and ſociety, having particular ſubordinate Officers, Charters, and Laws of Governement.</hi> The word hath other figurative ſenſes, but not pertinent here. And <hi>THE City</hi> in every Nation ſignifies their <hi>Metropo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is,</hi> as among the Ancient <hi>Grecians, Athens;</hi> with the latter, <hi>Byzantium,</hi> or <hi>Conſtantinople;</hi> among the <hi>Romans, Rome;</hi> with us, this of <hi>London;</hi> and among the <hi>Jews Jeruſalem,</hi> ſupppoſed to be <hi>the City</hi> intended in the Text. Though it is an univerſall truth, and may be predicated of any whole <hi>Countrey</hi> or <hi>Kingdome,</hi> and of every particular <hi>body politick, Corporation</hi> or <hi>City</hi> therein, that <hi>the Watch<g ref="char:EOLhyphen"/>man</hi> or Magiſtrate thereof <hi>watcheth or waketh therefore but in vain, Except</hi>
+               </p>
+               <p>
+                  <note place="margin" type="runsum">3. Lords keep<g ref="char:EOLhyphen"/>ing the City what?</note> The third expreſſion need<g ref="char:EOLhyphen"/>ing Explication. It was an antient ſuperſtition among thoſe <hi>who knew not God,</hi>
+                  <note place="margin">M<hi rend="sup">r</hi> 
+                     <hi>Gregor<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi>
+                  </note> in the croud of thoſe th<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> thou<g ref="char:EOLhyphen"/>ſand, they worſhipped for God,<note place="margin">2 Sam. 5.6, 8.</note>
+                  <hi>The Lord keepeth the City.</hi> to aſcribe a <hi>Genius</hi> to every Nation and City; and to build their Cities under the moſt propitious <hi>configuration</hi> of the Heavens, which they called the <hi>Aſcendent</hi> of the <hi>City.</hi> Under the influ<g ref="char:EOLhyphen"/>ence of a ſecond <hi>constellation,</hi> they erected a <hi>Statue</hi> of braſſe, into which they called by <hi>Magick</hi> (as the Devill made them believe) the <hi>Fortune</hi> of their <hi>City,</hi> which ſo confin'd, they diſpos'd in ſome receſſefull and ſafe place of the <hi>City;</hi> and on the preſervation of that <hi>Statue,</hi> they ſuppoſed their own, and their <hi>Cities</hi> depended. Such was the <hi>Trojan Palladium,</hi> and ſuch were the <hi>blind and lame,</hi>
+                  <note place="margin">2 Sam. 5.6, 8.</note> mentioned in <hi>Samuel,</hi> wherewith the <hi>Jebuſites</hi> did <hi>Garriſon</hi> their <hi>Fort</hi> againſt <hi>David.</hi> Not <hi>impotent per<g ref="char:EOLhyphen"/>ſons</hi> (as ſome have too <hi>lamely</hi> and <hi>blindly</hi> aſſerted) ſet in ſcorn as defendants good enough in a place ſo impregna<g ref="char:EOLhyphen"/>ble; for ſuch <hi>Davids ſoul</hi> would have <hi>pittied</hi> rather than <hi>hated,</hi> as he is there ſaid to do them. And their naturall or accidentall defects would not have ſecluded them from<note place="margin">Verſe 8. <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note>
+                  <pb n="9" facs="tcp:65157:6"/> his <hi>Palace,</hi> as thoſe <hi>lame and blind,</hi> were,<note place="margin">Id.</note> which was o<g ref="char:EOLhyphen"/>pen to <hi>Mephiboſheth,</hi> though conſcious of <hi>one</hi> of thoſe imperfections.<note place="margin">2 Sam. 9:13.</note> It was congruous to the pride of <hi>Perſian Monarchs,</hi> to forbid entrance into their Courts to per<g ref="char:EOLhyphen"/>ſons <hi>cloath'd in ſackcloath,</hi> leaſt they ſhould cloud,<note place="margin">Eſther 4.2.</note> and damp their mirth, and luxury: But <hi>David,</hi> who was <hi>a man after Gods own heart,</hi> (and the <hi>heart</hi> of <hi>God</hi> is <hi>com<g ref="char:EOLhyphen"/>paſſion</hi>) could not <hi>therefore</hi> ſo diſtaſſe them. But theſe were <hi>Images,</hi> the <hi>tutelary Gods</hi> of the place, which the <hi>Jebuſites</hi> call <hi>blind and lame,</hi> not as intimating their <hi>own eſteem</hi> of them, but repeating the <hi>Iſraelites upbraidings</hi> of them as <hi>ſuch;</hi> ſuitable to the <hi>Character David</hi> gives of them, <hi>They have eyes and ſee not, (blind,</hi>
+                  <note place="margin">Pſal. 115.5, 7</note>) <hi>feet and walk-not, (lame.)</hi> And throughout that <hi>Pſalm,</hi> (it is therefore worth your peruſall at leiſure) the <hi>Penman</hi> thereof ſets up the <hi>Lord</hi> in oppoſition to all thoſe <hi>falſe Gods.</hi>
+                  <note place="margin">Luke 11.22.</note> Who by his <hi>binding that ſtrong man arm'd in his own Palace,</hi> ſhewed that the <hi>Devils are ſubject to him,</hi> by their <hi>migremus hinc,</hi> their quitting poſſeſſion, when, and wherever his commands ſeal a <hi>Leaſe of Ejectment</hi> on them, and that <hi>there is no ſorcery againſt Jacob,</hi>
+                  <note place="margin">Numb. 23.2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Heb. 7.25.</note> 
+                  <hi>nor divination againſt</hi> his <hi>Iſrael.</hi> He is <hi>able to ſave to the uttermoſt them that rely on him;</hi> a ſure repoſitary of his peoples confi<g ref="char:EOLhyphen"/>dence. <hi>In his hands</hi> no <hi>danger, out of them</hi> no <hi>ſafety.</hi> No preſuming then on <hi>Idols,</hi> that are <hi>not</hi> ſo much as the <hi>I<g ref="char:EOLhyphen"/>mage of God,</hi> no nor yet on <hi>Magiſtrates,</hi> which are <hi>but</hi> ſo much: Not on <hi>Idols,</hi> which are the <hi>work of our hands;</hi> nor on <hi>men,</hi> though they are the <hi>work of his hands: For except the Lord keep,</hi> &amp;c.</p>
+               <p>
+                  <note place="margin" type="runsum">4. The Text proved.</note>Which is the <hi>fourth and laſt particular,</hi> and indeed the all of the Text, which we promiſed to evidence by <hi>Prece<g ref="char:EOLhyphen"/>dents</hi> and <hi>Arguments.</hi>
+               </p>
+               <p n="1">
+                  <note place="margin" type="runsum">1. By inſtan<g ref="char:EOLhyphen"/>ces.</note>1. By <hi>Precedents,</hi> that ſo it hath been. And truely Hiſtory <hi>ſacred,</hi> and <hi>prophane, domestick,</hi> and <hi>forreign,</hi> is full of inſtances. Take the word <hi>City</hi> in its largeſt bounds, of <hi>Empires, Nations,</hi> and <hi>Commonwealths;</hi> againſt how many of theſe, and how often, hath God writ his <hi>Mene Mene Tekel <g ref="char:V">Ʋ</g>pharſin,</hi> he hath <hi>numbred,</hi>
+                  <note place="margin">Dan. 5.25, <hi>&amp;</hi>
+                  </note>
+                  <pb n="10" facs="tcp:65157:7" rendition="simple:additions"/> 
+                  <hi>weighed, divided,</hi> and <hi>caſſ'd</hi> them. The four Monarchies <hi>Aſſyrian, Perſian, Grecian, Roman:</hi> The Hiſtories of every Nation will aſſert this truth to their Rea<g ref="char:EOLhyphen"/>ders, in the many, and great changes they offer to view.</p>
+               <p>Take the word <hi>City</hi> in its limited and uſuall ſenſe, for a <hi>place encompaſſed with walls,</hi> and the time would faile me, ſhould I inſiſt on the particular Tradegies of thoſe only recorded in <hi>Sacred Writ,</hi> that have fallen under the diſpleaſure of the Lord: <hi>Babel, Sodom</hi> and <hi>Gomorrah, Admah</hi> and <hi>Zeboim, the City of Hamor</hi> for the rape of <hi>Dinah, Jericho, Ai, Tyre</hi> and <hi>Sidon, Gibeah, Damaſ<g ref="char:EOLhyphen"/>cus, Samaria, Babylon.</hi>
+                  <note n="a" place="margin">Deut. 1.28.</note> 
+                  <hi>The Cities of Canaan wall'd up to Heaven.</hi>
+                  <note n="b" place="margin">2 Chron. 14.14.</note> 
+                  <hi>The Cities about Gerar of Aroer,</hi>
+                  <note n="c" place="margin">Deut. 3.4.</note> 
+                  <hi>the Cities of Og.</hi> All thoſe of the<note n="d" place="margin">1 Chron. 20.3.</note> 
+                  <hi>Ammonites</hi> and<note n="e" place="margin">2 King. 3 25.</note> 
+                  <hi>Moabites,</hi> and<note n="f" place="margin">Judg. 20.48.</note> 
+                  <hi>Benjamin. Aſhdod, Gath,</hi> and <hi>Ek<g ref="char:EOLhyphen"/>ron</hi> of the<note n="g" place="margin">1 Sam. 5.</note> 
+                  <hi>Philiſtims;</hi> with thoſe many that ſunk un<g ref="char:EOLhyphen"/>der the weight of the Prophets heavy <hi>burdens.</hi> And the dolefull ruines of <hi>Jeruſalem,</hi> we may take a view of through the holy p<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſpective of <hi>Jeremy</hi>'s tears and <hi>Thre<g ref="char:EOLhyphen"/>nody:</hi> And its laſt irrecoverable devaſtation deſcribed by <hi>Joſephus,</hi> an eye-witneſſe of the fulfilling of our <hi>Savi<g ref="char:EOLhyphen"/>ours</hi> prediction on the <hi>Temple,</hi> and the enlargement thereof to almoſt <hi>the whole City,</hi> whereof ſcarce <hi>one ſtone was left upon another.</hi> When God had empounded the greater part of the Nation within thoſe walls at the <hi>feaſt of the Paſſeover;</hi> where there was an account given in of two hundred fifty ſix thouſand five hundred <hi>Paſchall Lambs</hi> ſlain, and at the rate of <hi>ten</hi> at leaſt to a <hi>Lamb,</hi> there was <hi>in the City</hi> then no leſſe than two millions five hundred ſixty five thouſand purifi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d male <hi>Jews: Jews</hi> beſides ſtrangers, and <hi>men</hi> beſides women and children, and <hi>purified</hi> beſides the unclean; the captives ninety ſe<g ref="char:EOLhyphen"/>ven thouſand, ſlain, and died of the <hi>plague</hi> during the <hi>ſiege,</hi> an hundred thouſand. And the City loſt, and razed through the factions of the <hi>ſeditious,</hi> and <hi>zealous.</hi> They are <hi>Joſephus</hi> his words. And indeed <hi>ſedition,</hi> and <hi>blind zeal</hi> will go far toward the deſtruction of a <hi>City.</hi> In
+<pb n="11" facs="tcp:65157:7"/> 
+                  <hi>grand Cairo</hi> Hiſtorians tell us, there died in one year of the plague no leſſe than eighteen hundred thouſand per<g ref="char:EOLhyphen"/>ſons. And what havock it made not long ſince in the <hi>Weſterne parts, Rome, Naples, Genoa,</hi> &amp;c. your weekly News Books could inform you. To come nearer home, how hath God <hi>haraſſed</hi> theſe Lands by incurſions of <hi>Ro<g ref="char:EOLhyphen"/>mans, Scots, Picts, Danes, Saxons,</hi> and <hi>Normans,</hi> by Civil diſſentions betwixt <hi>King</hi> and <hi>Barons, York</hi> and <hi>L<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ncaſter,</hi> when (as one wittily alludes) the <hi>red Roſe</hi> bluſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d for the bloud it ſhed, and the <hi>white Roſe</hi> grew pale through the blood it had loſt. What depopulation and waſte hath <hi>the plague</hi> made in ſeverall parts of the Nation, to inſtance but in one at a diſtance, fifty ſeven thouſand, and more in the City of <hi>Norwich</hi> in ſix moneths, where now is ſcarce the <hi>fifth part of</hi> that number of inhabitants. To come home to <hi>this City,</hi> in the year 1593, there died of the <hi>plague</hi> ſe<g ref="char:EOLhyphen"/>venteen thouſand eight hundred and ninety, among which, the then <hi>Lord Maior,</hi> and three <hi>Aldermen</hi> In the year 1563, twenty one thouſand five hundred and thirty. In the year 1348, fifty thouſand were buried in <hi>one Church<g ref="char:EOLhyphen"/>yard,</hi> that of the <hi>Charter-houſe</hi> The vaſt numbers of thoſe that were hereby <hi>gathered to their Fathers</hi> in the firſt of King <hi>James,</hi> and King <hi>Charles</hi> the firſt, is within the memory of many of you, and therefore needs not my <hi>record.</hi>
+               </p>
+               <p>And but gently to touch the yet <hi>green wounds</hi> of our laſt <hi>twenty years</hi> contracting; how hath <hi>this City</hi> been <hi>ſindg'd</hi> in ſeverall limbs of it by <hi>fire,</hi> and <hi>ſcar'd</hi> by trium<g ref="char:EOLhyphen"/>phant <hi>enemies</hi> marching through the <hi>bowels</hi> of it, and ſome <hi>Swords,</hi> and <hi>blood</hi> drawn in it. And there are, and have been, <hi>new diſeaſes, new feavers,</hi> gleaning, and reap<g ref="char:EOLhyphen"/>ing in it. And though the <hi>plague (God be thanked)</hi> hath not, yet <hi>War,</hi> and its daughter, <hi>poverty,</hi> hath <hi>ſhut up</hi> many <hi>hou<g ref="char:EOLhyphen"/>ſes</hi> in it. And though I am confident no <hi>City</hi> in the world is better conſtituted for the <hi>Eccleſiaſtical, Civil,</hi> and <hi>Mi<g ref="char:EOLhyphen"/>litary Polity</hi> of it; yet all theſe unqueſtionable <hi>experiences</hi> will peremptorily convince us, that <hi>Except the Lord keep the City,</hi> &amp;c.</p>
+               <pb n="12" facs="tcp:65157:8" rendition="simple:additions"/>
+               <p>
+                  <note place="margin" type="runsum">2. Reaſons.</note>But 2. this truth may be, as <hi>experimentall<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> ſo alſo <hi>rati<g ref="char:EOLhyphen"/>onally</hi> aſſerted. Wherefore to back <hi>this</hi> ſtrength of <hi>Hiſtory,</hi> we ſhall bring up a reſerve of <hi>ſix Arguments:</hi> three where<g ref="char:EOLhyphen"/>of immediately refer to <hi>God,</hi> and the other three reſpect the <hi>Magiſtrate,</hi>
+                  <note place="margin" type="runsum">1. From God.</note> or <hi>Watchm<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n. Three Attributes</hi> of God eſpecially, give in a valid teſtimony to this truth; that <hi>Ex<g ref="char:EOLhyphen"/>cept the Lord keep,</hi> &amp;c.</p>
+               <p n="1">
+                  <note place="margin" type="runsum">1. His Omni<g ref="char:EOLunhyphen"/>ſcience.</note>1. His <hi>Omniſcience,</hi> God, and God only knowes all the <hi>enemies</hi> of a <hi>City,</hi> and all the <hi>deſignes</hi> of thoſe <hi>enemies. All things are naked, and open before him,</hi>
+                  <note place="margin">Heb. 4.13.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>anato<g ref="char:EOLhyphen"/>miz'd,</hi> as every <hi>capil<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ry v<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in</hi> to the <hi>Hawks eye</hi> of the ac<g ref="char:EOLhyphen"/>curate <hi>Chyrurgion.</hi>
+                  <note place="margin">Verſe 12.</note> No ſuch <hi>diſſecting knife,</hi> as the <hi>wiſdom of God, it pierceth to the dividing aſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er of ſoul, and ſpirit, and of the joynts, and marrow, and is a diſcerner of the thoughts,</hi>
+                  <note place="margin">John 2.25.</note> 
+                  <hi>and intents of the heart. He needs not that any ſhould teſtifie of man, for he knows what is in him;</hi> better than the <hi>Artificer</hi> doth the <hi>ſprings,</hi> and <hi>wheels</hi> of any <hi>movement.</hi> One man cannot judge anothers <hi>heart,</hi> but by ſome <hi>overt <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct:</hi> It therefore is a very <hi>blaſphemous expreſſion</hi> to ſay, <hi>We know ſuch an one as well as he that made him.</hi> There are three <hi>Indexes,</hi> or diſcoverers of the <hi>mind;</hi> The <hi>Countenance,</hi> the <hi>Tongue,</hi> the <hi>Hand:</hi> All theſe may, and have,<note place="margin">Matth. 6.16.</note> put a <hi>fallacy</hi> upon man. The <hi>Phariſees</hi> were <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> men of moſt <hi>mortified countenances,</hi> but <hi>corrupt principles,</hi> and they caught the people in this <hi>net;</hi> who could not ſee the <hi>graves</hi> for the <hi>painting.</hi>
+                  <note place="margin">1 Kings 13.18.</note> That lying <hi>Prophet</hi> by a ſmooth tongue, and a well couched ſtory, betrai'd the <hi>man of God</hi> to a ſodain and ſad deſtruction. And the <hi>rough hands</hi> of <hi>Jacob</hi> cheated the <hi>dim ſight</hi> of <hi>Iſaac.</hi>
+                  <note place="margin">Gen. 27.22.</note> How often have theſe combin'd, and a well dreſſed <hi>lye,</hi> an innocent <hi>look,</hi> and <hi>ſiding</hi> for a while with a <hi>party,</hi> let in a <hi>Spye,</hi> and <hi>Traytour</hi> into a <hi>Garriſon,</hi> paſt all the <hi>Guards</hi> to the ruine thereof? Thus <hi>Judith</hi> captivated th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>heart,</hi> and then cut off the <hi>head</hi> of <hi>Holofernes.</hi>
+                  <note place="margin">Judith 13.</note> And what walls are proof a<g ref="char:EOLhyphen"/>gainſt a <hi>golden Aſs,</hi> or the <hi>wooden horſe</hi> of an inſinuating <hi>Si<g ref="char:EOLhyphen"/>non.</hi> The <hi>Philoſoper</hi> conſcious of his <hi>ſincerity,</hi> wiſhed he had a <hi>window</hi> to his breaſt, that his very <hi>thoughts</hi> might be <hi>vi<g ref="char:EOLhyphen"/>ſible</hi> to all the world. Man is <hi>diaphanous,</hi> or tranſparent to
+<pb n="13" facs="tcp:65157:8" rendition="simple:additions"/> 
+                  <hi>God</hi> who <hi>made the eye,</hi> without ſuch a <hi>window. The heart of man is deceitfull above all things,</hi> to <hi>others,</hi> to <hi>himſelf;</hi>
+                  <note place="margin">Jerem. 17.9.</note> but he that <hi>framed it,</hi> knows every <hi>winding</hi> in that <hi>laby<g ref="char:EOLhyphen"/>rinth,</hi> and can trace it without a <hi>clue.</hi> The <hi>Watchman</hi> paſ<g ref="char:EOLhyphen"/>ſeth him that can give the <hi>word:</hi> But how many have had the <hi>word</hi> in their <hi>mouths,</hi> who yet have <hi>betray'd the City?</hi> But there is no <hi>word</hi> ſave that of <hi>Immanuel, God with us,</hi> that can <hi>preſerve it.</hi> The <hi>Lords</hi> all-ſeeing <hi>eye</hi> can pierce into a <hi>Spaniſh Council,</hi> a <hi>Romiſh Conclave,</hi> an <hi>Helliſh Vault;</hi> and diſcover, and ſcatter an inſolent <hi>invaſion,</hi> and <hi>Powder-treaſon</hi> He <hi>knows all thoughts before they are;</hi> every <hi>embryo ſtratagem</hi> againſt a <hi>City,</hi> and no <hi>ambuſh</hi> is hid from, nor is there any <hi>counſel againſt him.</hi> No ſuch <hi>over<g ref="char:EOLhyphen"/>ſeer</hi> than as <hi>God,</hi> who is never <hi>overſeen.</hi>
+               </p>
+               <p n="2">
+                  <note place="margin" type="runsum">2. Omnipre<g ref="char:EOLhyphen"/>ſence.</note>2. <hi>Except the Lord keep,</hi> &amp;c. Becauſe of his <hi>Omnipre<g ref="char:EOLhyphen"/>ſence. Entèr, praeſenter Deus eſt, &amp; ubique potentèr, preſent</hi> to all <hi>times,</hi> for this <hi>King</hi> indeed, and perſonally <hi>never dyes:</hi> and to <hi>all places, he fills Heaven and earth.</hi>
+                  <note place="margin">Jer. 23.24.</note> 
+                  <hi>Magiſtrates</hi> be<g ref="char:EOLhyphen"/>low are forced to <hi>delegate</hi> Officers under them; to <hi>ſee</hi> by the <hi>perſpective</hi> of others <hi>eyes,</hi> and <hi>hear</hi> by the <hi>Otacouſticon</hi> of others <hi>ears,</hi> and <hi>e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k</hi> out their <hi>ſhort armes</hi> with others <hi>hands:</hi> To <hi>ape</hi> an <hi>omnipreſence</hi> by Lieutenants, Judges, Vice-royes, Deputies, Conſtables, and the like: And trea<g ref="char:EOLhyphen"/>chery in one of theſe, may bring ruine on the whole body. The <hi>Governour</hi> of a <hi>Garriſon</hi> endeavours to be <hi>every where</hi> by his Council, Orders, Officers, Main-guard, Ou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-guards, Reſerves, Centinels, Perdu's, Scouts, Spyes, Pe<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ols, Rounds, and Grand-rounds. But <hi>God is all theſe,</hi> and <hi>above them,</hi> and they are <hi>all nothing without him;</hi> He is a <hi>Centinel</hi> at <hi>every door,</hi> a <hi>Maſter,</hi> a <hi>Father</hi> in <hi>every Family,</hi> in the <hi>City:</hi>
+                  <note place="margin">Ma<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. 1.6. Epheſ. 3.15.</note> 
+                  <hi>for except he build</hi> every particular <hi>houſe, they labour but in vain, that would raiſe it.</hi> He is preſent to every <hi>perſon,</hi> and to every <hi>action</hi> of that perſon. He is not as a <hi>Watchmaker,</hi> who having fram'd, and put together a piece of <hi>Clock-work,</hi> winds up the <hi>ſprings,</hi> or draws up the <hi>weights,</hi> and is then an idle ſpectator of its ſeverall <hi>motions:</hi> But as a skil<g ref="char:EOLhyphen"/>full <hi>Muſician,</hi> whoſe fingers aſſiſt to every <hi>Note,</hi> and <hi>rel<g ref="char:EOLhyphen"/>liſh;</hi> as <hi>In him we live, and move, and have our being.</hi>
+                  <note place="margin">Acts 17.28.</note> Now
+<pb n="14" facs="tcp:65157:9"/> ſince as in the <hi>body naturall,</hi> ſo alſo in the <hi>body politick,</hi> death may be let in, and life out at every <hi>pore,</hi> every little <hi>leak</hi> may ſink the <hi>Veſſel</hi> of the <hi>Common-wealth;</hi> there can be no <hi>ſecurity,</hi> but in one, who is at <hi>hand</hi> to all dangers, and ſuch is our <hi>Omnipreſent God.</hi>
+               </p>
+               <p>
+                  <note place="margin" type="runsum">3. Omnipoten<g ref="char:EOLhyphen"/>cy.</note>But 3. That which renders the other two Attributes advantageous to us, is the <hi>Omnipotency</hi> of God. Our <hi>Watch<g ref="char:EOLhyphen"/>men</hi> may be <hi>conſcious</hi> of our afflictions, <hi>preſent</hi> to them, <hi>ready,</hi> and <hi>willing</hi> to help, but <hi>impotent.</hi> They may ſee the <hi>fire</hi> conſuming, but unable to <hi>quench</hi> it: the <hi>plague</hi> ravage<g ref="char:EOLhyphen"/>ing but unable to <hi>ſtop</hi> it: <hi>famine</hi> depopulating but unable to <hi>relieve</hi> from it. <hi>Milchama,</hi> war <hi>devouring</hi> but unable to <hi>obſtruct</hi> it.<note place="margin">Matth. 19.26.</note> But <hi>with God all things are poſſible.</hi> His <hi>breath</hi> that blowes <hi>up</hi> the <hi>fire,</hi> can blow it <hi>out.</hi> He can ſet limits of <hi>time, number,</hi> and <hi>place</hi> to the <hi>plague,</hi> and fill your <hi>Bills of Mortality</hi> with empty <hi>Cyphers,</hi> as <hi>(bleſſed be his name for it)</hi> he hath done for above <hi>thirty years</hi> together. What doth a <hi>Watchman,</hi> a <hi>padlock,</hi> and a <hi>red croſſe</hi> at the door, <hi>dog-killers</hi> within the <hi>City,</hi> and <hi>Peſt-houſes</hi> without, and all other very prudent <hi>Cautions</hi> of our <hi>Governours</hi> ſignifie, unleſſe there be a <hi>Lord have mercy upon us</hi> too, to <hi>heale</hi> thoſe within, and <hi>ſecure</hi> thoſe <hi>without?</hi> He only gives <hi>bread,</hi>
+                  <note place="margin">Ezek. 16.49. Lev. 26.26.</note> and makes it <hi>plentifull.</hi> Even <hi>fullneſſe of bread,</hi> and he gives the <hi>ſtaffe of bread,</hi> and makes it <hi>nouriſhing,</hi> that it prove not <hi>gravel in the mouth;</hi>
+                  <note place="margin">Prov. 20.17. Matth. 7.9.</note> 
+                  <hi>a ſtone inſtead of bread.</hi> He turns the <hi>edge</hi> of every <hi>Sword</hi> that is drawn againſt you, and <hi>rebates</hi> the <hi>point</hi> of every <hi>Spear</hi> of war that is thrown among you. You have found what advantage it is to have the <hi>General</hi> of a <hi>few thouſands</hi> for your <hi>friend.</hi> What pre<g ref="char:EOLhyphen"/>judice, to have him for your <hi>enemy?</hi> What doth it then import to have the <hi>Lord of hoſts for</hi> you, or <hi>againſt</hi> you? One <hi>Angel</hi> is <hi>Guardian</hi> ſufficient for the whole City of <hi>Sa<g ref="char:EOLhyphen"/>maria,</hi>
+                  <note place="margin">2 Kings 19.35.</note> and <hi>in one night</hi> diſpatcheth <hi>one hundred eighty five thouſand</hi> of its beſiegers. How ſecure are they then, who have him for their <hi>defender,</hi> who <hi>commands more than twelve legions</hi> of ſuch Conquerours?<note place="margin">Matth. 26.53.</note> We preſume our <hi>Nation</hi> to be well fenced with a <hi>wall</hi> of <hi>water;</hi> And we thought our <hi>City</hi> well munited with a <hi>wall</hi> of <hi>earth;</hi> But
+<pb n="15" facs="tcp:65157:9"/> alas! how <hi>weak</hi> is <hi>water,</hi> and how <hi>frail</hi> is <hi>earth</hi> to that <hi>God</hi> who is <hi>a wall of fire.</hi> The <hi>Roman Ram,</hi>
+                  <note place="margin">Zech. 2.5.</note> an engine of battery with its <hi>iron hornes</hi> puſh'd down the <hi>walls</hi> of many <hi>Cities:</hi> But even the <hi>breath</hi> of a few <hi>ramms horns,</hi>
+                  <note place="margin">Joſh. 6.20.</note> when God <hi>in<g ref="char:EOLhyphen"/>ſpires</hi> them, <hi>blows down the walls of Iericho.</hi> He works <hi>with,</hi> or <hi>without,</hi> by <hi>weak,</hi> or <hi>contrary means.</hi> His <hi>power</hi> is ſo great none need to <hi>aſſist,</hi> none can <hi>reſiſt</hi> him.<note place="margin">Rev. 6.2, <hi>&amp;c.</hi>
+                  </note> Both the <hi>red horſe</hi> of <hi>war,</hi> and the <hi>black horſe</hi> of <hi>famine,</hi> and the <hi>pale horſe</hi> of <hi>peſtilence</hi> belong to his <hi>Militia;</hi> And if he <hi>charge</hi> us with but <hi>one</hi> of theſe, it is ſufficient to <hi>rout us;</hi> What would all <hi>three</hi> do then, if he did not <hi>bind their mouths with a bit,</hi>
+                  <note place="margin">Pſal. 32.9.</note> 
+                  <hi>and bridle, that they ſhould not come near us?</hi> No <hi>Magiſtrate</hi> is then ſuch a <hi>ſhield,</hi> as <hi>God.</hi> No <hi>Tower</hi> ſo ſtrong, as <hi>He.</hi> No <hi>Watchman</hi> hath ſuch <hi>knowledge</hi> to <hi>detect,</hi> ſuch an <hi>ubiquity</hi> to <hi>direct,</hi> and ſuch <hi>power</hi> to <hi>protect.</hi> Therefore <hi>except,</hi> &amp;c.</p>
+               <p>
+                  <note place="margin" type="runsum">2. Reaſons concerning the Watch<g ref="char:EOLhyphen"/>man.</note>And that will yet more evidently appear, if as you have conſidered how <hi>neceſſary God</hi> is to the <hi>City,</hi> ſo ſecondly, if you perpend that he is of as abſolute <hi>neceſſity</hi> to the <hi>Watch<g ref="char:EOLhyphen"/>man,</hi> to the <hi>Magiſtrate</hi> too, and that becauſe</p>
+               <p n="1">
+                  <note place="margin" type="runsum">1. His abilities.</note>1. He hath his <hi>endowments</hi> from God: ſuch as are <hi>Da<g ref="char:EOLhyphen"/>vids zeal</hi> for <hi>piety;</hi> and <hi>Phineas</hi> his for <hi>juſtice;</hi> the <hi>wiſedom</hi> of <hi>Solomon;</hi> the <hi>meekneſſe</hi> and <hi>uprightneſſe</hi> of <hi>Moſes;</hi> the <hi>valour,</hi> and <hi>conduct</hi> of <hi>Joſhua;</hi> the <hi>ſtrength</hi> of <hi>Sampſon;</hi> an <hi>unbribeable ſpirit</hi> as <hi>Samuel;</hi> a <hi>tender care</hi> of the <hi>spiritual</hi> and <hi>civil concernments</hi> of <hi>Gods people,</hi> as <hi>Joſeph, Nehemiah,</hi> and <hi>Mordecai;</hi> the <hi>impartiality</hi> of <hi>Job:</hi> And (which com<g ref="char:EOLhyphen"/>prehends all theſe) that <hi>vigilancy,</hi> that <hi>waking</hi> in the Text, to <hi>exert,</hi> and ſuit theſe to their proper <hi>objects.</hi> Now all theſe are <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, from <hi>the father of lights,</hi>
+                  <note place="margin">James 1.17.</note> who gives <hi>every good and perfect gift:</hi> Who as he is <hi>free</hi> to <hi>give Empire,</hi> ſo alſo to <hi>qualifie</hi> for it. And where God denies or withdraws any of <hi>theſe</hi> from <hi>Governours,</hi> he ſo <hi>far,</hi> and ſo <hi>much</hi> expo<g ref="char:EOLhyphen"/>ſeth that <hi>Government</hi> to <hi>hazard.</hi> But theſe are but the <hi>lim<g ref="char:EOLhyphen"/>nings,</hi> though rich ones, of a <hi>Magiſtrate:</hi> We muſt have a <hi>facing</hi> to: theſe but <hi>adapt,</hi> they do not <hi>licenſe</hi> for <hi>Govern<g ref="char:EOLhyphen"/>ment:</hi> they belong <hi>ad poſſe,</hi> not <hi>adeſſe</hi> of <hi>Magiſtracy, ſimply conſidered:</hi> for with theſe our <hi>Watchman watcheth but in vain, Except,</hi> &amp;c.</p>
+               <p n="2">
+                  <pb n="16" facs="tcp:65157:10"/>
+                  <note place="margin" type="runsum">2. Commiſſion.</note>2. He hath his <hi>deputation</hi> from <hi>God:</hi> from whom all muſt have their <hi>Commiſſions, immediately</hi> as <hi>Kings,</hi> or <hi>medi<g ref="char:EOLhyphen"/>ately</hi> by and from <hi>Kings,</hi> as <hi>ſubordinate Magiſtrates.</hi> The <hi>Prince</hi> is the <hi>fountain of honour,</hi> and <hi>power.</hi> But <hi>God</hi> is the <hi>Sea</hi> of both, the bottomleſſe, boundleſſe <hi>Ocean</hi> of both <hi>ho<g ref="char:EOLhyphen"/>nour,</hi>
+                  <note place="margin">Rom. 13.1. John 19.11.</note> 
+                  <hi>and power. The powers that be are ordained of God. Thou couldſt have no power at all againſt me,</hi> ſaith <hi>Chriſt</hi> to <hi>Pilate, except it were given thee from above.</hi> All <hi>Magiſtrates from God,</hi> whether by <hi>ſucceſſion</hi> as <hi>Kings, nomination</hi> as <hi>Judges,</hi> or <hi>election,</hi> as <hi>Maiors, Aldermen, Sheriffs, Common-council-men,</hi> &amp;c. though there is alſo herein much of the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the ordinance of man,</hi>
+                  <note place="margin">1 Peter 2.13.</note> S<hi rend="sup">t</hi> 
+                  <hi>Peter</hi> ſpeaks of, be<g ref="char:EOLhyphen"/>cauſe proper <hi>for men,</hi> and diſcharg'd <hi>by men,</hi> and they have their <hi>congè d'eſlire,</hi> leave to chooſe <hi>from God. By whom Kings reign,</hi>
+                  <note place="margin">Prov. 8.15.</note> 
+                  <hi>and Princes decree juſtice.</hi> Now a <hi>Commiſſion</hi> is a direction to the <hi>Commiſſioned</hi> for the <hi>matter, manner, meaſure, and time</hi> (uſually) of his work, <hi>this, thus, and thus much, and thus long.</hi> So that <hi>Magiſtrates</hi> often cannot do the good they have <hi>power</hi> to do, for want of <hi>authority:</hi> he that <hi>tranſgreſſeth</hi> lying under a <hi>premunire.</hi>
+                  <note place="margin">Pſal. 78.41.</note> The <hi>holy One of Iſrael,</hi> in himſelf, <hi>unlimited,</hi> ha h ſet <hi>bounds</hi> to all <hi>domini<g ref="char:EOLhyphen"/>on,</hi> every <hi>Magiſtrate</hi> being his <hi>Miniſter.</hi> Even <hi>Angels</hi> who are ſuperiour to the beſt of men in their beſt conditi<g ref="char:EOLhyphen"/>on, their <hi>ſtate of innocence;</hi> wherein <hi>they were made little lower than the Angels,</hi>
+                  <note place="margin">Pſal. 8.5. Exod. 23.20.</note> are <hi>preſcrib'd</hi> their orders, and <hi>cir<g ref="char:EOLhyphen"/>cumſcrib'd</hi> by God. He <hi>ſends an Angel before his Iſrael, to keep th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m in the way, and bring them into the place he hath prepared.</hi>
+                  <note place="margin">Pſal. 91.11.</note> And <hi>he gives his Angels charge over us, to keep us in all our wayes.</hi> There is a great deal of difference between acting <hi>with,</hi> and <hi>without a Commiſſion,</hi> either <hi>fear palls,</hi> or <hi>deſpaire fires</hi> the <hi>procedure</hi> of theſe, whereas he who <hi>draws</hi> his <hi>Sword lawfully,</hi> can <hi>uſe</hi> it <hi>valiantly,</hi> and <hi>ſheath</hi> it <hi>ſafely.</hi> It is undeniable that there may be <hi>many</hi> not call'd to the <hi>helm</hi> of <hi>Government,</hi> as <hi>pious, prudent, juſt,</hi> and <hi>valiant</hi> as thoſe that are: But as they have a <hi>moral aptitude</hi> to <hi>rule, parts,</hi> ſo they muſt have a <hi>civil aptitude, leave</hi> to exerciſe thoſe <hi>parts,</hi> before they can juſtly <hi>exert them as Rulers.</hi> He that hath the <hi>endowment</hi> without the <hi>employment,</hi> like
+<pb n="17" facs="tcp:65157:10"/> 
+                  <hi>Ephraim, is a cake, bak'd but on one ſide.</hi>
+                  <note place="margin">Hoſea 7.8. 2 Sam. 18.23. Verſe 29. 2 Tim. 2.24. compared with Rom. 10.15.</note> An <hi>unſent Ahimaaz</hi> may make more haſte than a <hi>Commiſſion'd Cuſhi,</hi> and <hi>more haſte than good ſpeed too,</hi> for when he comes his errand is, <hi>he knows not what.</hi> To be <hi>apt to teach, apt to rule</hi> is not enough, for how ſhall they do either, <hi>except they be ſent?</hi> We have ſadly felt the inconveniences of having the <hi>Throne,</hi> the <hi>Bench,</hi> the <hi>Pulpit</hi> thus fill'd by <hi>
+                     <g ref="char:V">Ʋ</g>ſurpers.</hi> The <hi>Ship</hi> cannot be ſafe, when every <hi>Marriner</hi> will play the <hi>Pilot;</hi> nor the <hi>Army</hi> ſecure, when every <hi>Souldier</hi> will ſet the <hi>watch</hi> without order. <hi>God keeps a City</hi> by his <hi>Pro<g ref="char:EOLhyphen"/>vidences,</hi> ſuch are <hi>health, peace, plenty,</hi> and the like; And by his <hi>Ordinances,</hi> whereof <hi>Magiſtracy</hi> is one, and a con<g ref="char:EOLhyphen"/>ſiderable one, it can be no <hi>City</hi> without it. Now the <hi>provi<g ref="char:EOLhyphen"/>dences</hi> of God cannot be expected, where the <hi>Ordinances</hi> of God are <hi>ſleighted.</hi> Then <hi>God will keep your City</hi> when you let him ſet his own <hi>Centinels</hi> and <hi>Watchmen</hi> over it, ſuch as are not only <hi>parted,</hi> but alſo <hi>impower'd</hi> by him, <hi>a<g ref="char:EOLhyphen"/>dapted,</hi> and <hi>Commiſſion'd by God, Authority</hi> being the <hi>em<g ref="char:EOLhyphen"/>belliſhment of Dignity.</hi> But yet this is not all that is neceſſa<g ref="char:EOLhyphen"/>ry to the preſervation of a <hi>City:</hi> For</p>
+               <p n="3">
+                  <note place="margin" type="runsum">3. Succeſſe from God.</note>3. Then <hi>God keeps the City</hi> when he <hi>bleſſeth the endea<g ref="char:EOLhyphen"/>vours</hi> of <hi>thoſe</hi> that do <hi>wake over it.</hi> The <hi>able, faithfull, painfull, lawfull,</hi> may yet be an <hi>unſucceſſefull Magiſtrate,</hi> and <hi>Watchman:</hi> The <hi>laſt hand</hi> therefore of God is his <hi>bleſſing</hi> upon their <hi>ſtudies.</hi> And this is the main purport of the <hi>Text,</hi> as is evident by the <hi>next Verſe,</hi> the <hi>exegeſis,</hi> or illuſtration thereof. <hi>It is vain for you to riſe up early,</hi>
+                  <note place="margin">Pſal. 127.2.</note> 
+                  <hi>to ſit up late, to eat the bread of ſorrowes, for ſo he giveth his be<g ref="char:EOLhyphen"/>loved ſleep.</hi> We ſoundly, and ſafely ſleep on <hi>beds of Down,</hi> when he renders the councels of our vigilant <hi>Watchmen</hi> ſucceſſefull, whoſe <hi>Pillowes</hi> are ſtuffed with <hi>thornes,</hi> pub<g ref="char:EOLhyphen"/>lick cares. What doth a <hi>Typhis,</hi> a <hi>Palinurus</hi> at the <hi>Stern</hi> ſignifie, when God will not <hi>ſtill the raging of the Sea?</hi> or a <hi>wiſe</hi> and <hi>just Prince</hi> in the <hi>Throne,</hi> when he will not al<g ref="char:EOLhyphen"/>lay <hi>the madneſſe of the people?</hi> A <hi>Court of Aldenmen,</hi>
+                  <note place="margin">Pſal. 89.9. Prov. 16.33.</note> or <hi>Common Councel</hi> may <hi>debate</hi> and <hi>conclude,</hi> but <hi>as lots caſt into the lap,</hi> God will diſpoſe of all their <hi>Reſolves,</hi> they may <hi>deliberate,</hi> but he will <hi>determine,</hi> and, when he pleaſ<g ref="char:EOLhyphen"/>eth,
+<pb n="18" facs="tcp:65157:11" rendition="simple:additions"/> uſe his <hi>Negative voyce,</hi> againſt any of their <hi>orders.</hi> Nay,<note place="margin">Jer. 5.6.</note> when he purpoſeth to <hi>chaſtiſe a City,</hi> he will do it by <hi>faſces</hi> and <hi>Swords</hi> of their own <hi>Judges,</hi> and ſet <hi>Leopards to watch over them.</hi> Their <hi>keepers</hi> ſhall be their <hi>Goalers.</hi> In<g ref="char:EOLhyphen"/>ſtead of <hi>Nurſing-fathers,</hi>
+                  <note place="margin">Iſai. 49.23.</note> their <hi>Magiſtrates</hi> ſhall prove <hi>Step-fathers:</hi> Their <hi>Miniſters bout-feu's,</hi> and <hi>bellowes of Sedition:</hi> And their <hi>Militia</hi> an <hi>Iron yoak</hi> about the <hi>neck</hi> of their <hi>liberty;</hi> A <hi>Wolfe</hi> in the <hi>boſome</hi> that eats out the <hi>heart</hi> of its <hi>maintainer.</hi> Separate the <hi>bleſſing</hi> of God from the <hi>brain</hi> of an <hi>Ahitophel,</hi> and the <hi>tongue</hi> of an <hi>Herod,</hi> and that wiſe <hi>Counſellour,</hi>
+                  <note place="margin">2 Sam. 16.23. Acts 12.22.</note> and this eloquent <hi>Orator</hi> ſhall <hi>dye</hi> with <hi>ſhame</hi> and <hi>horror,</hi> though he <hi>counſelled,</hi> and this <hi>ſpake as the Oracles of God.</hi> Why doth not the <hi>harveſt</hi> anſwer the <hi>ſeed time,</hi>
+                  <note place="margin">2 Cor. 9.6.</note> nor that promiſe of God, that <hi>he that ſow<g ref="char:EOLhyphen"/>eth plentifully ſhall reap ſo?</hi> Why doth not <hi>meat</hi> ſatisfie the <hi>hungry?</hi>
+                  <note place="margin">1 Hagg. 6.9.</note> nor <hi>drink</hi> the <hi>thirſty?</hi> nor <hi>cloaths warm?</hi> nor the <hi>wages</hi> reſt in the <hi>bag?</hi> the <hi>ninth Verſe</hi> tells the rea<g ref="char:EOLhyphen"/>ſon: <hi>The Lord did blow upon all.</hi> (And would you know why God <hi>blow'd thereon,</hi> peruſe the whole <hi>Chapter</hi> at your leiſure, and then conſider <hi>this ruin'd houſe of God,</hi> into a <hi>corner</hi> of which we are <hi>crep'd,</hi> and your merit therefore of ſuch a judgment, and apply the <hi>remedy;</hi> it is <hi>eccentrick</hi> to my <hi>Text,</hi>
+                  <note place="margin">Prov. 10.22.</note> and I cannot inſiſt on it.) <hi>The bleſſing of God makes rich, and he adds no ſorrow with it. The bleſſing of God makes rich,</hi> the <hi>curſe of God</hi> ſometimes doth it, when he <hi>fills the bellies of the wicked with his hid treaſure,</hi>
+                  <note place="margin">Pſal. 17.14.</note> and en<g ref="char:EOLhyphen"/>tailes it, <hi>they have enough, and leave the rest of their ſub<g ref="char:EOLhyphen"/>ſtance to their Babes. When men make haſte to be rich, and therefore cannot be innocent.</hi>
+                  <note place="margin">Prov. 28.20. Pſal. 17.14.</note> When they have <hi>wealth</hi> from God, not as <hi>tokens,</hi> but <hi>portions,</hi> but then the <hi>ſting</hi> appears in the <hi>taile,</hi>
+                  <note place="margin">Luke 16.25. Eccl. 7.6.</note> 
+                  <hi>everlaſting ſorrow, Dives</hi> laſt courſe and ſad voyder; here <hi>comforted,</hi> and but <hi>for a time,</hi> their pro<g ref="char:EOLhyphen"/>ſperity a <hi>fire of thornes;</hi> below <hi>tormented,</hi> and that for <hi>ever,</hi> their puniſhment a <hi>fire of brimſtone.</hi> Gods bleſſing is the beſt <hi>Charter</hi> of the City, the ratification of all your coun<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell, when his <hi>fiat</hi> is to it. When to you <hi>Optative</hi> he adds his <hi>Imperative Amen,</hi>
+                  <note place="margin">1 Kings 1.36.</note> and <hi>commands down</hi> the mer<g ref="char:EOLhyphen"/>cy you <hi>look</hi> up for. Then is your <hi>Militia</hi> ſo many thou<g ref="char:EOLhyphen"/>ſand
+<pb n="19" facs="tcp:65157:11" rendition="simple:additions"/> 
+                  <hi>effective,</hi> when the <hi>Lord of Hoſts</hi> is their General,<note place="margin">Prov. 11.14. Pſal. 82.1.</note> then <hi>in the multitude of</hi> your <hi>Counſello<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s there is ſafety,</hi> when <hi>God ſtan<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eth in</hi> your <hi>Aſſemblies,</hi> and <hi>judgeth among</hi> you. For <hi>Except he keep your City, the Watchman</hi> Eccleſi<g ref="char:EOLhyphen"/>aſtical, Civil, and Military, <hi>watcheth but in v<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in.</hi>
+               </p>
+            </div>
+            <div type="application">
+               <p>
+                  <note place="margin" type="runsum">Application.</note>Now having <hi>proved</hi> the truth in the Text, it remains that we <hi>improve</hi> it. I find <hi>three parties</hi> concerned in the words; <hi>The Watchman, the City, the Lord.</hi> My Addreſſe ſhall be to <hi>each,</hi> with reſpect to the other <hi>two.</hi> To <hi>the Watchman</hi> for <hi>the Lord</hi> and <hi>the City;</hi> and to <hi>the City</hi> for <hi>the Watchman</hi> and <hi>the Lord;</hi> and to <hi>the Lord</hi> for both <hi>Watchman</hi> and <hi>City.</hi>
+               </p>
+               <p>
+                  <note place="margin" type="runsum">1. To Watch<g ref="char:EOLhyphen"/>men, to be</note>Firſt, To <hi>the Watchmen:</hi> You who under God, and his Vice-gerent, <hi>the King,</hi> have any ſhare in the Govern<g ref="char:EOLhyphen"/>ment of this Royal City; You have heard, that <hi>Except the Lord keep</hi> your <hi>City,</hi> your <hi>vigilance</hi> cannot be ſucceſſe<g ref="char:EOLhyphen"/>full in its preſervation. The beſt way then to wed your <hi>endeavours</hi> to <hi>ſucceſſe,</hi> is <hi>to intereſt God</hi> in your <hi>endeavours,</hi> which is done principally in the exerciſe of <hi>piety and ju<g ref="char:EOLhyphen"/>ſtice, piety</hi> toward <hi>the Lord,</hi> and <hi>juſtice</hi> toward <hi>the City:</hi> the <hi>Jachin</hi> and <hi>Boaz,</hi> the pillars of a Nation,<note place="margin">1 Kings 7.21.</note> theſe being <hi>uprightneſſe</hi> and <hi>ſtrength</hi>
+               </p>
+               <p n="1">
+                  <note place="margin" type="runsum">1. Pious to God-ward.</note>1. <hi>Piety:</hi> And it is fit God ſhould be firſt ſerved, firſt <hi>Give unto God the things that are Gods. By the bleſſing of the up<g ref="char:EOLhyphen"/>right the City is exalted.</hi>
+                  <note place="margin">Prov. 11.11.</note> There is at this day a loud out<g ref="char:EOLhyphen"/>cry againſt <hi>prophaneneſſe,</hi> (I hope they are no <hi>hypocrites,</hi> that, like <hi>Lapwings,</hi> make it furtheſt from their own <hi>neſts</hi>) and certainty it is no cauſeleſſe clamour. You have excellent Laws againſt ſinnes of all ſorts, Let not thoſe <hi>Lions ſleep,</hi> if you would have your God <hi>wake for you.</hi> But eſpecially let your <hi>lives</hi> be a <hi>Law</hi> to your <hi>City:</hi> your people will be more apt to coppy out your <hi>practice</hi> than your <hi>Precepts.</hi> Then your commands have <hi>authority</hi> in them, when they have that of your <hi>example</hi> for them. A <hi>religious Joſiah</hi> is attended by a <hi>pious Iſrael.</hi>
+                  <note place="margin">2 Chron. 34.33. Acts 10.7.</note> And a <hi>devout Centurion</hi> by <hi>Souldiers that fear the Lord.</hi> It is an uſuall ſaying, that <hi>The world would be good, if every one would mend one;</hi> a compendious way to effect it, is by <hi>Magi<g ref="char:EOLhyphen"/>ſtrates</hi>
+                  <pb n="20" facs="tcp:65157:12" rendition="simple:additions"/> amending <hi>themſelves.</hi> Many would ſet their <hi>Watches</hi> by ſuch regular <hi>Sun-dials.</hi> The good converſation of one <hi>righteous Lot</hi> will check a whole <hi>City of Sodomites. Nobles</hi> are in the holy language called <hi>white ones,</hi> and the <hi>Robes</hi> of Majeſty are faced with <hi>white,</hi> to put the wearers in mind, that they muſt be <hi>innocent,</hi> who condemn the <hi>guilty,</hi> leaſt the ſentence <hi>reflect,</hi>
+                  <note place="margin">Matth. 7.3.</note> and the <hi>beam</hi> cenſure the <hi>mote.</hi> God hath honoured you, do you honour him; And if you would have him continue to <hi>keep your City,</hi> let it be your reſolution with good <hi>Joſhua,</hi>
+                  <note place="margin">Joſh. 24.15.</note> that <hi>you, and your houſhold ſhall ſerve him.</hi> And let not your <hi>Religion</hi> be <hi>ſuited</hi> to the factious <hi>humours</hi> of any <hi>party</hi> you would favour, or be favoured by, but to the <hi>Word of God,</hi> and thoſe conſonant, or not-repugnant <hi>Canons,</hi> and <hi>Laws</hi> of the <hi>Church,</hi> and <hi>State</hi> you rule under. And do not as the <hi>Lacedemonians,</hi> who are ſaid to <hi>dreſſe</hi> their <hi>Gods</hi> according to the preſent <hi>mode,</hi> and <hi>garb</hi> of <hi>their City. Magiſtratus indicat virum, wine,</hi> and <hi>power</hi> ſhew what is <hi>in man.</hi> Let men ſee, that as you are <hi>Gods,</hi> you can be <hi>good</hi> as well as <hi>great. Plato</hi> would have the <hi>Palaces</hi> of <hi>Princes</hi> ſeated near <hi>Temples;</hi> and the <hi>Romans</hi> made the way to the <hi>Temple</hi> of <hi>Honour</hi> through that of <hi>Virtue. Hic <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urus <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>haeneus ſto, nil con<g ref="char:EOLhyphen"/>ſcire m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>li,</hi>
+                  <note place="margin">Jerem. 15.20.</note> 
+                  <hi>nullâ p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lleſcere culpâ. Integrity</hi> and <hi>piety</hi> will be a <hi>wall of braſſe</hi> to you, and your City. You are ſubor<g ref="char:EOLhyphen"/>dinately <hi>cuſtodes utriuſque tabulae,</hi> keepers of both Tables of Gods Law; be ſo by your <hi>example</hi> and <hi>authority.</hi> You uſe to ſay, <hi>Keep your Shop, and your Shop will keep you;</hi> I may confidently ſay, <hi>keep your God,</hi> and <hi>your God</hi> will <hi>keep you. Obſerve</hi> you his <hi>Commandments,</hi> and he will <hi>preſerve</hi> your <hi>Government.</hi>
+               </p>
+               <p n="2">
+                  <note place="margin" type="runsum">2. Juſt to the City.</note>2. Remember that that <hi>God</hi> who alone can <hi>keep your City,</hi> is a <hi>juſt God,</hi> and be you <hi>juſt</hi> as he is <hi>juſt.</hi> The <hi>Sword of juſtice</hi> duly drawn, and valiantly uſed, will prevent unſheathing the <hi>Sword of War.</hi> And keep you from <hi>fal<g ref="char:EOLhyphen"/>ling</hi> not only <hi>into the hands of men,</hi> but thoſe <hi>of God</hi> too, by <hi>fire,</hi>
+                  <note place="margin">2 Sam. 24.14. Numb. 25. Pſal. 106.30. James 1 20.</note> 
+                  <hi>famine,</hi> or <hi>peſtilence;</hi> Which laſt <hi>Phineas</hi> diverts by an act of juſtice. He <hi>executed judgment, and the plague was ſtayed.</hi> Thus though <hi>the wrath of man worketh not the
+<pb n="21" facs="tcp:65157:12"/> righteouſneſſe of God,</hi> yet the <hi>righteouſneſſe of men,</hi> di<g ref="char:EOLhyphen"/>verteth the <hi>wrath of God. All Controverſies</hi> before you are about <hi>meum</hi> and <hi>tuum,</hi> what is this, or that mans propriety. Now juſtice doth <hi>ſuum cuique tribuere,</hi> give every one their own: <hi>Reward</hi> to whom <hi>reward,</hi> and <hi>pu<g ref="char:EOLhyphen"/>niſhment</hi> to whom <hi>puniſhment</hi> is due. And as <hi>piety</hi> and <hi>ju<g ref="char:EOLhyphen"/>ſtice</hi> are the <hi>pillars</hi> of <hi>Magiſtracy;</hi> ſo <hi>reward</hi> and <hi>puniſh<g ref="char:EOLhyphen"/>ment</hi> are the whole work of <hi>juſtice.</hi>
+                  <note place="margin" type="runsum">And therein prudent.</note> And in the diſcharge of this duty,<note place="margin">Job 29.16.</note> you muſt exe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ciſe many virtues, your <hi>pru<g ref="char:EOLhyphen"/>dence</hi> in <hi>ſearching out of cauſes,</hi> and diſcerning the <hi>natu<g ref="char:EOLhyphen"/>rall</hi> from the <hi>artificiall white,</hi> the <hi>truth</hi> from that <hi>fucus,</hi> and paint which <hi>Rhetorick</hi> and <hi>intereſt</hi> will <hi>dawb</hi> them with. And truely without this <hi>prudence, juſtice</hi> will ſtill be, as already it hath too long been, all <hi>Sword</hi> and no <hi>ballance.</hi>
+                  <note place="margin">2 Chron. 1.10. Verſe 12.</note> It was a worthy choice in <hi>Solomon</hi> to preferre <hi>wiſdom</hi> to <hi>riches, long life,</hi> and <hi>victory;</hi> for with that, he had theſe given as vantage, in meaſure, as a <hi>train</hi> at<g ref="char:EOLhyphen"/>tending on that <hi>Queen, Pſal.</hi> 45.14 This qualified him for the <hi>Throne,</hi> and by this he decided that intricate <hi>Con<g ref="char:EOLhyphen"/>troverſie</hi> between the <hi>two harlots.</hi>
+                  <note place="margin">1 Kings 3.</note> And <hi>juſtice</hi> cannot be <hi>done</hi> without <hi>judgement.</hi> They are miſtaken who think <hi>piety</hi> alone qualifies for <hi>Magiſtracy.</hi>
+                  <note place="margin">Matth. 10.16.</note> 
+                  <hi>The wiſdom of the ſerpent</hi> muſt be joyned to <hi>the innocency of the Dove.</hi> Then <hi>Magistrates</hi> are <hi>Gods,</hi> when, as God their <hi>truth</hi> ſecures them from <hi>deceiving,</hi> and their <hi>wiſdom</hi> from being <hi>de<g ref="char:EOLhyphen"/>ceived.</hi> As <hi>impiety</hi> alone <hi>deſtroyes not right of Dominion:</hi>
+                  <note place="margin">1 Kings 18.8. Rom. 13.1.</note> wicked <hi>Ahab</hi> continues <hi>Obadiah</hi>'s <hi>Lord,</hi> and <hi>Christians</hi> ow<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>ſubjection</hi> to impious <hi>Nero.</hi> So <hi>piety</hi> alone <hi>eſtabliſh<g ref="char:EOLhyphen"/>eth not a right,</hi> no, nor ſingle, <hi>adapts</hi> for <hi>Government. Wiſdom</hi> is an excellent <hi>offenſive weapon,</hi>
+                  <note place="margin">Prov. 21.22. Eccl. 9.15. 2 Sam. 20.22.</note> 
+                  <hi>A wiſe man ſcatters the City of the mighty:</hi> and <hi>defenſive</hi> too; <hi>A little City ſaved by a wiſe man.</hi> And a <hi>great City,</hi> a <hi>Mo<g ref="char:EOLhyphen"/>ther in Iſrael,</hi> by <hi>a wiſe woman:</hi> And that by a pi ce of juſtice, like that, for which the <hi>Dagger</hi> is become the <hi>Armes of this City,</hi> the <hi>ſeaſonable diſpatching an inſolent Rebel.</hi> (And when the prudence, and proweſſe of your preſent Governour laſt year expreſſed, in timely inter<g ref="char:EOLhyphen"/>cepting the repullulating head of ſedition, ſhall be duely
+<pb n="22" facs="tcp:65157:13" rendition="simple:additions"/> weighed, there will be found not more roome, than me<g ref="char:EOLhyphen"/>rit for another <hi>Dagger</hi>) Geeſe may ſave a Capita<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, but it is by chance.<note place="margin" type="runsum">And couragi<g ref="char:EOLhyphen"/>ous.</note> And you muſt annex <hi>courage</hi> to <hi>prudence</hi> in the execution of juſtice; and this leads the <hi>Van,</hi> (and courage loves to do it) in <hi>Jethro</hi>'s qualifications for <hi>Ma<g ref="char:EOLhyphen"/>giſtrates,</hi>
+                  <note place="margin">Exod. 18.21.</note> they muſt be <hi>men of courage, fearing God, dealing truely, and hating covetouſneſſe.</hi> You muſt <hi>reſcue</hi> the in<g ref="char:EOLhyphen"/>nocent <hi>Lamb</hi> from the <hi>Lion</hi> and the <hi>Bear,</hi>
+                  <note place="margin">Job 29.17. 1 King. 10.20.</note> and <hi>break their jawes too. Solomons</hi> Throne was ſupported with <hi>Lions. Courage</hi> will <hi>bear up</hi> your <hi>judgement-ſeats;</hi> and to this you muſt adde <hi>impartiality;</hi>
+                  <note place="margin" type="runsum">And impartial.</note> not to be <hi>warp'd</hi> by the <hi>poore</hi> man's <hi>miſery,<note place="margin">Exod. 23.3.</note> (not countenance a poor man in his cauſe,</hi> if unjuſt) nor <hi>rich</hi> mans <hi>bounty,</hi> nor <hi>great</hi> mans <hi>dignity,</hi> nor a <hi>friend's amity. God is no reſpecter of perſons,</hi> and you are no <hi>Gods</hi> if you <hi>be.</hi> You muſt let <hi>judgement run down like water,</hi>
+                  <note place="margin">Amos 5.24.</note> 
+                  <hi>and righteouſneſſe as a mighty ſtream; free</hi> as <hi>water</hi> from a <hi>ſpring,</hi> and not <hi>forc'd</hi> by importuni<g ref="char:EOLhyphen"/>ty, as <hi>water</hi> from a <hi>Pump.</hi> And <hi>free</hi> as your <hi>Conduit-wa<g ref="char:EOLhyphen"/>ter,</hi> that fills the <hi>earthen pitcher,</hi> as well as the <hi>ſilver gob<g ref="char:EOLhyphen"/>let.</hi> And free as your <hi>Thames water</hi> that flowes to all that will <hi>fetch it,</hi> and not as your <hi>New-River-water,</hi> that is imparted to none but thoſe that will <hi>pay for it.</hi> And <hi>clear</hi> without <hi>mudding</hi> it by mixing ſelf-intereſt. <hi>Pub<g ref="char:EOLhyphen"/>lick men</hi> muſt be <hi>publick ſpirited,</hi> and the <hi>private</hi> is in<g ref="char:EOLhyphen"/>cluded in that. <hi>Great perſons</hi> that uſe their <hi>place</hi> and <hi>power</hi> to fill their own <hi>Coffers,</hi> are like <hi>paſſengers</hi> in a Ship, that tear up the <hi>planks</hi> of the Veſſel to build their own <hi>Cabins.</hi> Remember you judge <hi>for</hi> God, and ſhall be judg'd <hi>by</hi> him. It was a condeſcending expreſſion of the <hi>beſt of Princes</hi> to a late <hi>Parliament</hi> upon their Diſſolution, that during their <hi>Intervals,</hi> in all his publick <hi>Reſolves,</hi> he ſhould propoſe to himſelf what a Parliament would <hi>judge</hi> of them, and if his <hi>actions</hi> would not bear that <hi>teſt,</hi> it ſhould be for want of <hi>judgement</hi> in him: In every <hi>ſen<g ref="char:EOLhyphen"/>tence</hi> you are to <hi>give,</hi> remember the <hi>ſentence</hi> you muſt <hi>receive;</hi> and ſo <hi>pronounce that,</hi> that you may not dread to <hi>undergo this.</hi> Thus faithfully <hi>trading</hi> with the <hi>Talents</hi> of your <hi>piety,</hi>
+                  <note place="margin">Luke 19.17.</note> and <hi>juſtice, wiſedom, courage,</hi> and <hi>integrity</hi> in
+<pb n="23" facs="tcp:65157:13" rendition="simple:additions"/> the truſt of the Government of this <hi>City.</hi> God ſhall at laſt give you <hi>authority over many Cities.</hi>
+               </p>
+               <p n="2">
+                  <note place="margin" type="runsum">2. To the Ci<g ref="char:EOLhyphen"/>tizens.</note>2. To the <hi>City,</hi> that is, to the <hi>Citizens,</hi> by a <hi>Meta<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>y</hi> of the <hi>continent for the contents,<note place="margin">Acts 13.44.</note> the City,</hi> that is, the Inhabitants, <hi>came together to hear the word.</hi> And to you, as <hi>therefore ſo conven'd,</hi> I ſhall ſpeak a <hi>word</hi> for <hi>the Lord,</hi> and for the <hi>Watchmen.</hi> There hath been formerly among you a great <hi>cry</hi> for <hi>truth and peace,</hi> ſo great a cry, that we loſt <hi>both</hi> in the <hi>miſt</hi> of that <hi>breath;</hi> They are two Jewels, that when gone, are worth a <hi>ſiquis</hi> an enquiry; Let us <hi>call home theſe baniſhed</hi> too. <hi>Let righteouſneſſe and peace meet, and kiſſe each other.</hi>
+                  <note place="margin">2 Sam. 14.13. Pſal. 85.10. Matth. 19.6. Gal. 5.12.</note> And <hi>curſed be they that part what God hath put together. I wiſh they were even cut off that trouble you</hi> in either. Let me therefore exhort you to the proſecution of <hi>truth</hi> for <hi>the Lords,</hi> and <hi>peace</hi> for <hi>the Watchman</hi>'s ſake, and of <hi>both</hi> for your <hi>own ſakes,</hi> the ſafety of your City, be<g ref="char:EOLhyphen"/>ing the reſult of <hi>both.</hi>
+               </p>
+               <p n="1">
+                  <note place="margin" type="runsum">1. To get truth for Gods ſake.</note>1. <hi>Truth,</hi> and if any ſhall put to me <hi>Pilate</hi>'s queſtion <hi>to Chriſt, what is truth?</hi> and hath more patience than he to ſtay for an <hi>anſwer,</hi>
+                  <note place="margin">John 18.38.</note> that I ſhall give proper to our preſent purpoſe, is; that, by <hi>truth</hi> is mean'd either the <hi>word of God,</hi> thus his <hi>Law</hi> and <hi>Commandments</hi> are <hi>truth;</hi>
+                  <note place="margin">Pſal. 119.142, 151. 2 Peter 2.2.</note> or our conformity to that word, called <hi>the way of truth:</hi> That is <hi>truth of Doctrine,</hi> this, of <hi>life and practice.</hi> Now,<note place="margin">2 Peter 2.2.</note> as the ſame <hi>Ocean</hi> takes various <hi>denominations</hi> from the ſeverall <hi>ſhores</hi> it runs by, ſo <hi>truth</hi> in <hi>cogitation</hi> is <hi>ſincerity,</hi> in <hi>com<g ref="char:EOLhyphen"/>munication veracity,</hi> in <hi>converſation integrity:</hi> And <hi>for theſe truths contend</hi> in Gods name.<note place="margin">Col. 3.16.</note> 
+                  <hi>Let the word of truth dwell plentiouſly in you;</hi> not as a <hi>gueſt</hi> for a <hi>night,</hi> or a <hi>ſer<g ref="char:EOLhyphen"/>vant</hi> for an <hi>Apprenticeſhip,</hi> or a <hi>child</hi> during <hi>non-age;</hi> but as the <hi>Maſter</hi> of the houſe, even <hi>aeterno veſtro,</hi> for life. Be frequent in ſearching theſe <hi>evidences</hi> for your <hi>freehold</hi> of <hi>grace</hi> and <hi>glory,</hi> and ſo <hi>copy</hi> them out, that they may be <hi>le<g ref="char:EOLhyphen"/>gible</hi> in your lives to <hi>him that runs.</hi>
+                  <note place="margin">Pſal. 51.6. Epheſ. 4.25. Prov. 12.19. Dan. 4.37.</note> Let there be <hi>truth in the inward parts,</hi> truth in <hi>thoughts.</hi> And <hi>ſpeak every one the truth to his neighbour,</hi> truth in <hi>word,</hi> called <hi>the lip of truth.</hi> And let your works be <hi>the works of truth,</hi> truth in <hi>deed.</hi> It God's <hi>Omnipotency,</hi> that he <hi>cannot lye;</hi> Let it be yours,
+<pb n="24" facs="tcp:65157:14" rendition="simple:additions"/> that you <hi>can do nothing against the truth,</hi>
+                  <note place="margin">2 Cor. 13.8.</note> 
+                  <hi>but for it. Max<g ref="char:EOLhyphen"/>ima, &amp; ſumma est virtus neminem decipere.</hi> It is the great<g ref="char:EOLhyphen"/>eſt, chiefeſt virtue to deceive none. Oh that all that hear me were thus,<note place="margin">Prov. 23 23.</note> and alwayes thus <hi>virtuous! Buy the truth, and ſell it not,</hi> and never <hi>ſell</hi> but <hi>b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> it. Let it, as a thread in a neck-lac<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Pearl, run through all your <hi>duties</hi> to <hi>God</hi> and <hi>man:</hi> your <hi>worſhip,</hi> let it be ſuited to the God you ſerve,<note place="margin">John 4.24.</note> 
+                  <hi>He is a Spirit, and will be worſhipped in ſpirit, and in truth.</hi> He that would not have the <hi>skin,</hi> requires the <hi>heart</hi> in ſacrifice. And let your <hi>respect be to all the Commande<g ref="char:EOLhyphen"/>ments of God,</hi> and all his Ordinances, <hi>to the truth,</hi> and <hi>all the truth;</hi> and in the whole <hi>inward</hi> and <hi>outward man,</hi> and this is <hi>integrity,</hi> as it is deduc'd from <hi>timber,</hi> that is <hi>ſtrait</hi> without, and <hi>ſound</hi> within. <hi>Take heed of</hi> that malicious, proud ſin,<note place="margin">Luke 12.1.</note> that ſowre, and ſwelling <hi>leaven of the Phariſees, hypocriſie,</hi> that infectious, Aguiſh vice, firſt it trembles, and then it burns;<note place="margin">Prov. 26.23.</note> that <hi>potſheard cover'd with ſilver droſs.</hi> And be <hi>true</hi> in your <hi>civil contracts</hi> with men, and let not <hi>Turks</hi> and <hi>Infidels riſe up in judgment againſt you</hi> Let your <hi>Omer</hi> and <hi>Epha,</hi> your <hi>Shekel</hi> and <hi>Cubit</hi> agree with thoſe of the <hi>Sanctuary.</hi> Your <hi>weights,</hi> and <hi>meaſures</hi> correſpond with thoſe of the <hi>Standard<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> The <hi>Heathen</hi> uſed to <hi>chain</hi> their <hi>Gods</hi> in their <hi>Temples:</hi> Faſten God by <hi>truth of holineſſe</hi> to your <hi>Churches,</hi> and <hi>truth of juſtice</hi> to your <hi>Shops,</hi> and you have him a ſure <hi>keeper of your City.</hi>
+               </p>
+               <p n="2">
+                  <note place="margin" type="runsum">2. Peace for the Watch<g ref="char:EOLhyphen"/>mans ſake.</note>2. Having taken into your boſomes this <hi>Leah,</hi> this <hi>eld<g ref="char:EOLhyphen"/>eſt daughter</hi> of grace, <hi>truth</hi> (and it is fit ſhe ſhould have precedence,<note place="margin">Gen. 29.26.</note> it being alſo not our cuſtome, <hi>to give the younger before the firſt born</hi>) make roome too for the <hi>beautifull Rachel</hi> of <hi>peace,</hi> ſo <hi>beautifull</hi> that <hi>ſhe</hi> reflects a <hi>beauty</hi> on the <hi>feet of her meſſengers.</hi>
+                  <note place="margin">Rom. 10.15.</note> This <hi>bigamy</hi> is not on<g ref="char:EOLhyphen"/>ly <hi>lawfull</hi> but <hi>dutifull.</hi> In the old Law the <hi>Jewes</hi> were not to <hi>take a wife with her ſiſter,</hi>
+                  <note place="margin">Lev. 18.18.</note> 
+                  <hi>to vex her:</hi> But you cannot <hi>vex</hi> theſe <hi>ſiſters,</hi> nor your ſelves, worſe than by <hi>parting them;</hi> He is a <hi>Jew</hi> that would do it. For <hi>truth</hi> without <hi>peace</hi> is a <hi>conſtant perſecution,</hi> and <hi>peace</hi> without <hi>truth</hi> is a <hi>wicked combination. Peace</hi> is the <hi>walls,</hi> and <hi>truth</hi> the <hi>Guard</hi> of a <hi>City,</hi> and theſe are a mutuall, a <hi>coun<g ref="char:EOLhyphen"/>ter-ſecurity</hi>
+                  <pb n="25" facs="tcp:65157:14"/> to each other. Oh that <hi>this City</hi> like <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> might be <hi>called the City of truth!</hi>
+                  <note place="margin">Zech. 8.3. Pſal. 122.3. Iſai. 59.14.</note> And like <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> might be <hi>as a City at unity in it ſelf!</hi> That <hi>truth</hi> might not <hi>fall in the ſtreets</hi> by guile, and extortion; nor <hi>peace</hi> be ſhut out, of your <hi>Church,</hi> and <hi>City-gates</hi> by <hi>ſchiſme</hi> and <hi>faction! Weaken</hi> not <hi>the hands</hi> of your <hi>Magi<g ref="char:EOLhyphen"/>ſtrates</hi> by your <hi>inteſtine diviſions,</hi> and <hi>ſtrife about words, and things that profit not;</hi>
+                  <note place="margin">2 Tim. 2.14.</note> leaſt you looſe the <hi>ſubſtance</hi> of Religion. <hi>Love</hi> in your bitter altercations about the <hi>dreſſe</hi> and <hi>ſhadow</hi> of it, <hi>Indifferent Ceremonies.</hi> Commit<g ref="char:EOLhyphen"/>ting an <hi>undoubted ſinne, diſobedience</hi> to the <hi>powers,</hi> in wa<g ref="char:EOLhyphen"/>ving a <hi>ſcrupled duty,</hi> ſubmiſſion to a preſcrib'd <hi>Forme of Worſhip;</hi> where <hi>liberty of Conſcience</hi> is not intrench'd on, for the thing ſtill remains <hi>indifferent</hi> there, though <hi>liberty of practice</hi> be (as it may be) confin'd, for <hi>unities</hi> and (which is the <hi>hedg</hi> to <hi>that</hi>) for <hi>uniformities</hi> ſake. Let me there<g ref="char:EOLhyphen"/>fore prevaile with you, ſince God hath vouchſaf'd you a <hi>mercy</hi> as much above your <hi>expectation,</hi> as your <hi>merit,</hi> in <hi>giving you Judges as at the firſt,</hi>
+                  <note place="margin">Iſai. 1.26.</note> 
+                  <hi>and Councellours as at the beginning;</hi> that you would prove <hi>a City of righteouſneſſe</hi> to that <hi>God,</hi> and <hi>a faithfull City</hi> to theſe <hi>Judges.</hi> And that, as you are taught from the Text, to think <hi>the Lord neceſſary</hi> to you, be they never ſo <hi>able;</hi> ſo not to think <hi>them unneceſſary,</hi> though <hi>God</hi> can <hi>keep your City</hi> without them. He who <hi>watcheth</hi> over them, hath appointed them to <hi>watch</hi> over you; and though he needs them not, you do, and his <hi>will,</hi> and not his <hi>power,</hi> is the <hi>rule</hi> of your du<g ref="char:EOLhyphen"/>ty. Would you ſet up a <hi>Throne</hi> to <hi>Chriſt,</hi> do it every one of you in your own <hi>hearts, Open thoſe everlaſting doores,</hi>
+                  <note place="margin">Pſal 24.7.</note> 
+                  <hi>and let that King of Glory come in</hi> And think not to <hi>gratifie</hi> him by <hi>wreſting</hi> the <hi>Scepter</hi> out of the hands of your <hi>lawfull Prince,</hi> to crow'd i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into <hi>his,</hi>
+                  <note place="margin">Luke 12.14. Matth. 22.21. Chap. 17.27. John 18.36.</note> who by his <hi>renunciation</hi> of any ſuch Governement, of the office of <hi>a Ruler</hi> or <hi>Judge,</hi> when ſollicited to it; by his <hi>precept</hi> and <hi>practice,</hi> in aſſert<g ref="char:EOLhyphen"/>ing the rights of <hi>Ceſar,</hi> hath convinc'd the whole <hi>world,</hi> that <hi>his Kingdome is not of it;</hi> and <hi>when ever (if ever,</hi> in the civill ſenſe of the word) <hi>it ſhall be,</hi>
+                  <note place="margin">Matth. 25.31 Rev. 5.11.</note> he who hath pro<g ref="char:EOLhyphen"/>miſed to <hi>come with all his holy Angels, even ten thouſand
+<pb n="2" facs="tcp:65157:15"/> times ten thouſand, and thouſands of thouſands,</hi> cannot need a <hi>ſcore or two</hi> of <hi>Blunderbuſſes</hi> to get him poſſeſſion. Since then it is both <hi>the Sword of the Lord,</hi>
+                  <note place="margin">Judg. 7.18.</note> 
+                  <hi>and of Gideon:</hi> Let <hi>God</hi> have the <hi>glory,</hi> and your <hi>Magiſtrates</hi> th: <hi>fruit</hi> of your <hi>ſubjection;</hi>
+                  <note place="margin">Titus. 3.1. Rom. 13.5.</note> And let me <hi>put you in mind to obey them, not for wrath, but conſcience ſake. Submit</hi> to their <hi>Orders</hi> where they <hi>enterfere</hi> not with <hi>Gods,</hi> and paſſe no harſh <hi>cenſures</hi> on their <hi>Councels,</hi> ſince you cannot <hi>fathom</hi> all the <hi>reaſons</hi> of them. <hi>Reverence</hi> their <hi>perſons,</hi> let them have your <hi>hats</hi> and your <hi>hearts</hi> And <hi>honour theſe Gods with part of your ſubſtance</hi> too.<note place="margin">Prov. 3.9.</note> 
+                  <note place="margin">1 Sam. 10.27.</note> They are <hi>ſons of Belial that deſpiſe their Prince, and bring him no preſents.</hi> And put ſome <hi>grains</hi> of charitable <hi>allowance</hi> into the <hi>ſcale,</hi> to weigh againſt their <hi>frailties,</hi> whoſe <hi>temptations</hi> are <hi>greater;</hi> and, as their <hi>per<g ref="char:EOLhyphen"/>ſons</hi> are more <hi>eminent,</hi> ſo their <hi>faults</hi> are more <hi>viſible</hi> than <hi>others,</hi> and <hi>themſelves</hi> are but <hi>men.</hi> And practice that <hi>love</hi> towards one another,<note place="margin">John 13.23.</note> which S<hi rend="sup">t</hi> 
+                  <hi>John, Who lay in the boſome of Chriſt,</hi> and <hi>learn'd there,</hi> ſo frequently and cordially <hi>urg<g ref="char:EOLhyphen"/>eth</hi> And manifeſt it in <hi>giving, forgiving, bearing, forbearing.</hi> Convincing gainſayers by <hi>strong arguments</hi> in <hi>ſoft expreſ<g ref="char:EOLhyphen"/>ſions:</hi>
+                  <note place="margin">Matth. 5.9.</note> Reconciling differences lik<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>bleſſed peace-makers,</hi> go<g ref="char:EOLhyphen"/>ing between <hi>brethren</hi> of <hi>oppoſite perſwaſions,</hi> as <hi>mortar</hi> to <hi>cement them,</hi> though you venture being <hi>cruſh'd</hi> by both for it, the <hi>lot</hi> of <hi>moderate ſpirits.</hi> So ſhall you allay all <hi>vio<g ref="char:EOLhyphen"/>lence, and ſtrife in the City,</hi> and diſcover your <hi>legitimacy</hi> as the <hi>Children of God,</hi> who will <hi>therefore,</hi> and <hi>thereby keep you and your City;</hi> and in his due time tranſlate <hi>you,</hi> and all your faithfull <hi>Watchmen</hi> to be made <hi>Denizens</hi> of that <hi>City that hath foundations,</hi>
+                  <note place="margin">Heb. 11.10.</note> whoſe <hi>builder, maker</hi> and <hi>keeper, himſelf</hi> immediately <hi>is;</hi> even that <hi>Jeruſalem, that is above the Mother of us all.</hi>
+                  <note place="margin">Gal. 4.26.</note>
+               </p>
+               <p>
+                  <note place="margin" type="runsum">3. To the Lord, for</note>Having finiſh'd my addreſſe to the <hi>Watchman</hi> for <hi>the Lord,</hi> and <hi>the City;</hi> and to <hi>the City</hi> for <hi>the Lord,</hi> and <hi>the Watchmen;</hi> It remains that I beſpeak <hi>the Lord</hi> for both <hi>Watchmen</hi> &amp; <hi>City.</hi> Now all <hi>Application</hi> to <hi>him</hi> being by way of <hi>Petition,</hi> whereunto the more hands and hearts we can get, the more hope of ſucceſſe; ſince he vouchſafes to be<note n="a" place="margin">Iſai. 45.11.</note> 
+                  <hi>commanded,</hi> &amp;<note n="b" place="margin">Exod. 32.10, <hi>&amp;c.</hi> Gen. 32.26.</note> 
+                  <hi>captivated</hi> by <hi>Prayer,</hi> let us unanimouſ<g ref="char:EOLhyphen"/>ly <hi>wreſtle</hi> with him for a bleſſing on both.</p>
+            </div>
+            <div type="prayer">
+               <pb n="27" facs="tcp:65157:15"/>
+               <head>A Prayer.</head>
+               <p>
+                  <note place="margin" type="runsum">1. Watchmen Civil,</note>
+                  <hi>O</hi> Lord our God, our ſtrong Tower, our Wall of fire, our Sun, and our Shield: By whom Kings Reign, and Princes decree Juſtice; Who alone Qualifieſt and Commiſ<g ref="char:EOLhyphen"/>ſioneſt for Government, and bleſſeſt the endeavours if our Governours with ſucceſſe: We beſeech thee bleſſe the chief Magistrate of this City, and all thoſe in Authority under him, with wiſdom to foreſee, faithfullneſſe to diſcover, and courage to encounter every danger. L<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t them he Shields for the ſafeguard of them that do well, and Swords for the ter<g ref="char:EOLhyphen"/>rour, and puniſhment of them that do evill: Men of cou<g ref="char:EOLhyphen"/>rage, fearing thee, dealing truely, and hating covetouſneſs.</p>
+               <p>And, as by particular Relation, and Duty I ſtand bound, I implore thy moſt gratious preſervation of his Majeſties Royal Tower of <hi>London,</hi> and of S<hi rend="sup">t</hi> 
+                  <hi>John Robinſon</hi> his Ho<g ref="char:EOLhyphen"/>nourable, and Faithfull Lieutenant thereof. Keep it from all ſecret Conſpiracy, and open Violence, that the Watch<g ref="char:EOLhyphen"/>men in it may not watch in vain.</p>
+               <p>
+                  <note place="margin" type="runsum">And Eccleſi<g ref="char:EOLhyphen"/>aſtical.</note>Let all the Spirituall Watchmen of this City be cloathed with righteouſneſſe: Not ignorantly blind, nor negligently dumb, but rightly dividing thy Word of Truth, and behaving themſelves as workmen that need not be aſhamed. Fill eve<g ref="char:EOLhyphen"/>ry Candleſtick with a burning, and ſhining Light, that may lead thy people by Precept, and Practice into, and in the wayes of Truth, Peace and Godlineſſe.</p>
+               <p>
+                  <note place="margin" type="runsum">2. For the Ci<g ref="char:EOLhyphen"/>ty.</note>And keep the Commonalty of this moſt populous City from all ſuperſtition, hypocriſie, and profaneneſſe, ſchiſme, and faction, envy, hatred, malice, and all uncharitableneſſe; pride, drunkenneſſe, gluttony, and idleneſſe. Preſerve them from every evill of ſinne, and ſorrow, from fire, famine, ſword and peſtilence. Lead them by thy Spirit, Word and Miniſters into every neceſſary truth, and up to every duty. Teach them to keep Conſciences void of offence towards thee, and towards men: That they may give thee thy due in a reſpect to all thy Commandements: And <hi>Ceſar</hi> his, in their thoughts, words and deeds, in their honour, cuſtomes and tribute, and in their chearfull ſubjection for conſcience ſake, to all the lawfull commands of their Magiſtrates: And
+<pb n="28" facs="tcp:65157:16"/> their fellow-ſubjects their due in brotherly charity, and ho<g ref="char:EOLhyphen"/>neſty in bargains and ſales: And their families theirs in all Christian care for them; and themſelves their own due in a ſober proviſion for their bodies, and an earneſt and faithfull endeavour after the ſalvation of their ſouls: own<g ref="char:EOLhyphen"/>ing, imploring, and improving thy ſuperintendency over all, Prince, Magiſtrates, Ministers, City, Estates, Repu<g ref="char:EOLhyphen"/>tations, Families and Perſons. Guide us by the hands of thy <hi>Moſes</hi> and <hi>Aarons,</hi> keep us by thy power, proſper us by thy bleſſing, ſanctifie us by thy Spirit, and ſave us by thy Sonne: to both whom with thy ſelf, a Trinity of Perſons, in <g ref="char:V">Ʋ</g>nity of Eſſence, be honour, and praiſe, now, and for<g ref="char:EOLhyphen"/>ever.</p>
+               <closer>Amen, Amen.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:65157:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
